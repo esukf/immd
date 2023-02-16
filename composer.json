@@ -1,0 +1,7 @@
+{
+    "require": {
+        "mikehaertl/php-pdftk": "^0.13.0",
+        "khanamiryan/qrcode-detector-decoder": "1.0.5.2",
+        "phpoffice/phpspreadsheet": "^1.26"
+    }
+}
