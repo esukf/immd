@@ -4,8 +4,52 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "cc74a420b53a2e3ec13338c2e3d86565",
+    "content-hash": "82073e97805d79b1b9eaa6a1af5f92b6",
     "packages": [
+        {
+            "name": "eddturtle/qpdf-php",
+            "version": "v1.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/eddturtle/qpdf-php.git",
+                "reference": "bcbb6dde074ae1c263e9181d2053460909895bf8"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/eddturtle/qpdf-php/zipball/bcbb6dde074ae1c263e9181d2053460909895bf8",
+                "reference": "bcbb6dde074ae1c263e9181d2053460909895bf8",
+                "shasum": ""
+            },
+            "require": {
+                "mikehaertl/php-shellcommand": "^1.5.0",
+                "php": ">=7.4"
+            },
+            "require-dev": {
+                "phpunit/phpunit": "~8.0||~9.0||~10.0"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "EddTurtle\\Qpdf\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Edd Turtle",
+                    "email": "edd@designedbyaturtle.co.uk"
+                }
+            ],
+            "description": "PHP wrapper for the qpdf library",
+            "support": {
+                "issues": "https://github.com/eddturtle/qpdf-php/issues",
+                "source": "https://github.com/eddturtle/qpdf-php/tree/v1.0"
+            },
+            "time": "2023-12-13T21:29:28+00:00"
+        },
         {
             "name": "ezyang/htmlpurifier",
             "version": "v4.16.0",
@@ -966,5 +1010,5 @@
     "prefer-lowest": false,
     "platform": [],
     "platform-dev": [],
-    "plugin-api-version": "2.3.0"
+    "plugin-api-version": "2.2.0"
 }

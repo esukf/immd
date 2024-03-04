@@ -1,0 +1,1920 @@
+---
+FieldType: Text
+FieldName: chnName
+FieldNameAlt: &#22995;&#21517;&#65288;&#20013;&#25991;&#65289;
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: maidSurname
+FieldNameAlt: &#23130;&#21069;&#22995;&#27663;&#65288;&#22914;&#36969;&#29992;&#65289;
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: engSurname
+FieldNameAlt: &#22995;&#65288;&#33521;&#25991;&#65289;
+FieldFlags: 29360128
+FieldJustification: Left
+FieldMaxLength: 33
+---
+FieldType: Text
+FieldName: engName
+FieldNameAlt: &#21517;&#65288;&#33521;&#25991;&#65289;
+FieldFlags: 29360128
+FieldJustification: Left
+FieldMaxLength: 33
+---
+FieldType: Text
+FieldName: alias
+FieldNameAlt: &#21029;&#21517;&#65288;&#22914;&#26377;&#65289;
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: sex
+FieldFlags: 49152
+FieldJustification: Left
+FieldStateOption: &#30007;
+FieldStateOption: &#22899;
+FieldStateOption: Off
+---
+FieldType: Text
+FieldName: dobDay
+FieldNameAlt: &#20986;&#29983;&#26085;
+FieldFlags: 29360128
+FieldJustification: Left
+FieldMaxLength: 2
+---
+FieldType: Text
+FieldName: dobMth
+FieldNameAlt: &#20986;&#29983;&#26376;
+FieldFlags: 29360128
+FieldJustification: Left
+FieldMaxLength: 2
+---
+FieldType: Text
+FieldName: dobYr
+FieldNameAlt: &#20986;&#29983;&#24180;
+FieldFlags: 29360128
+FieldJustification: Left
+FieldMaxLength: 4
+---
+FieldType: Text
+FieldName: birthPlace
+FieldNameAlt: &#20986;&#29983;&#22320;&#40670;
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: national
+FieldNameAlt: &#22283;&#34249;
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: maritalStat
+FieldFlags: 49152
+FieldJustification: Left
+FieldStateOption: &#26410;&#23130;
+FieldStateOption: &#24050;&#23130;
+FieldStateOption: &#38626;&#23130;
+FieldStateOption: &#20998;&#23621;
+FieldStateOption: &#21930;&#20598;
+FieldStateOption: &#20854;&#20182;
+FieldStateOption: Off
+---
+FieldType: Text
+FieldName: hkidAlpha
+FieldNameAlt: &#39321;&#28207;&#36523;&#20221;&#35657;&#34399;&#30908; &#27396;&#20301;1
+FieldFlags: 29360128
+FieldJustification: Right
+FieldMaxLength: 2
+---
+FieldType: Text
+FieldName: hkidDigit
+FieldNameAlt: &#39321;&#28207;&#36523;&#20221;&#35657;&#34399;&#30908; &#27396;&#20301;2
+FieldFlags: 29360128
+FieldJustification: Left
+FieldMaxLength: 6
+---
+FieldType: Text
+FieldName: hkidChkD
+FieldNameAlt: &#39321;&#28207;&#36523;&#20221;&#35657;&#34399;&#30908; &#27396;&#20301;3
+FieldFlags: 29360128
+FieldJustification: Left
+FieldMaxLength: 1
+---
+FieldType: Text
+FieldName: mainlandID
+FieldNameAlt: &#20839;&#22320;&#36523;&#20221;&#35657;&#34399;&#30908;&#65288; &#22914;&#26377;&#65289;
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: travelDocType
+FieldNameAlt: &#26053;&#34892;&#35657;&#20214;&#39006;&#21029;
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: travelDocNo
+FieldFlags: 29360128
+FieldJustification: Left
+FieldMaxLength: 15
+---
+FieldType: Text
+FieldName: issuePlace
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: doiDay
+FieldNameAlt: &#31805;&#30332;&#26085;
+FieldFlags: 29360128
+FieldJustification: Left
+FieldMaxLength: 2
+---
+FieldType: Text
+FieldName: doiMth
+FieldNameAlt: &#31805;&#30332;&#26376;
+FieldFlags: 29360128
+FieldJustification: Left
+FieldMaxLength: 2
+---
+FieldType: Text
+FieldName: doiYr
+FieldNameAlt: &#31805;&#30332;&#24180;
+FieldFlags: 29360128
+FieldJustification: Left
+FieldMaxLength: 4
+---
+FieldType: Text
+FieldName: doeDay
+FieldNameAlt: &#23622;&#28415;&#26085;
+FieldFlags: 29360128
+FieldJustification: Left
+FieldMaxLength: 2
+---
+FieldType: Text
+FieldName: doeMth
+FieldNameAlt: &#23622;&#28415;&#26376;
+FieldFlags: 29360128
+FieldJustification: Left
+FieldMaxLength: 2
+---
+FieldType: Text
+FieldName: doeYr
+FieldNameAlt: &#23622;&#28415;&#24180;
+FieldFlags: 29360128
+FieldJustification: Left
+FieldMaxLength: 4
+---
+FieldType: Text
+FieldName: appEmail
+FieldNameAlt: &#38651;&#37109;&#22320;&#22336;&#65288;&#22914;&#26377;)
+FieldFlags: 29360128
+FieldJustification: Left
+FieldMaxLength: 36
+---
+FieldType: Text
+FieldName: appTel
+FieldNameAlt: &#32879;&#32097;&#38651;&#35441;&#34399;&#30908;
+FieldFlags: 12582912
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: faxNo
+FieldNameAlt: &#20659;&#30495;&#34399;&#30908;&#65288;&#22914;&#26377;)
+FieldFlags: 12582912
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: domCountry
+FieldNameAlt: &#29694;&#26178;&#23450;&#23621;&#22283;&#23478;&#65295;&#22320;&#21312;
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: preReside
+FieldFlags: 49152
+FieldJustification: Left
+FieldStateOption: &#26159;
+FieldStateOption: &#21542;
+FieldStateOption: Off
+---
+FieldType: Text
+FieldName: resYear
+FieldNameAlt: &#23621;&#30041; &#24180;
+FieldFlags: 29360128
+FieldJustification: Left
+FieldMaxLength: 2
+---
+FieldType: Text
+FieldName: resMonth
+FieldNameAlt: &#23621;&#30041; &#26376;
+FieldFlags: 29360128
+FieldJustification: Left
+FieldMaxLength: 2
+---
+FieldType: Text
+FieldName: appOccupation
+FieldNameAlt: &#32887;&#26989;
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: curEmployer
+FieldNameAlt: &#29694;&#26178;&#20721;&#20027;&#30340;&#21517;&#31281;&#65288;&#22914;&#36969;&#29992;&#65289;
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: curEmpAddr
+FieldNameAlt: &#29694;&#26178;&#20721;&#20027;&#30340;&#22320;&#22336;&#65288;&#22914;&#36969;&#29992;&#65289;
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: appStay
+FieldFlags: 49152
+FieldJustification: Left
+FieldStateOption: &#26159;
+FieldStateOption: &#21542;
+FieldStateOption: Off
+---
+FieldType: Text
+FieldName: perDay
+FieldNameAlt: &#29554;&#20934;&#36887;&#30041;&#33267; &#26085;
+FieldFlags: 29360128
+FieldJustification: Left
+FieldMaxLength: 2
+---
+FieldType: Text
+FieldName: perMth
+FieldNameAlt: &#29554;&#20934;&#36887;&#30041;&#33267; &#26376;
+FieldFlags: 29360128
+FieldJustification: Left
+FieldMaxLength: 2
+---
+FieldType: Text
+FieldName: perYr
+FieldNameAlt: &#29554;&#20934;&#36887;&#30041;&#33267; &#24180;
+FieldFlags: 29360128
+FieldJustification: Left
+FieldMaxLength: 4
+---
+FieldType: Button
+FieldName: status
+FieldFlags: 49152
+FieldJustification: Left
+FieldStateOption: &#23601;&#26989;
+FieldStateOption: &#23621;&#30041;&#65295;&#21463;&#39178;&#20154;
+FieldStateOption: &#35370;&#23458;
+FieldStateOption: &#20854;&#20182;
+FieldStateOption: Off
+---
+FieldType: Text
+FieldName: others
+FieldNameAlt: &#35498;&#26126;
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: appDate1
+FieldNameAlt: &#26085;&#26399;
+FieldFlags: 12582912
+FieldJustification: Center
+---
+FieldType: Text
+FieldName: formVersion
+FieldFlags: 12582912
+FieldValue: 10/2008
+FieldValueDefault: 10/2008
+FieldJustification: Left
+FieldMaxLength: 7
+---
+FieldType: Signature
+FieldName: certifyField
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: formID
+FieldFlags: 8388608
+FieldValue: ID1003A
+FieldValueDefault: ID1003A
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: errMsg
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: fldError
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnPG1
+FieldNameAlt: &#30003;&#35531;&#20154;
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnPG2
+FieldNameAlt: &#29238;
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnPG3
+FieldNameAlt: &#27597;
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnPG4
+FieldNameAlt: &#21512;&#27861;&#30435;&#35703;&#20154;
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnPG5
+FieldNameAlt: *Delete where inappropriate
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnPG6
+FieldNameAlt: *Delete where inappropriate
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnPG7
+FieldNameAlt: *Delete where inappropriate
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: Print
+FieldNameAlt: &#21015;&#21360;
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: Clear Form
+FieldNameAlt: &#28165;&#38500;&#34920;&#26684;
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: Button1
+FieldNameAlt: &#21487;&#36664;&#20837;&#36039;&#26009;
+FieldFlags: 65537
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: presentAddr1
+FieldNameAlt: &#29694;&#26178;&#20303;&#22336;1
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: presentAddr2
+FieldNameAlt: &#29694;&#26178;&#20303;&#22336;2
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: presentAddr3
+FieldNameAlt: &#29694;&#26178;&#20303;&#22336;3
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: permanAddr1
+FieldNameAlt: &#22266;&#23450;&#20303;&#22336;1
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: permanAddr2
+FieldNameAlt: &#22266;&#23450;&#20303;&#22336;2
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: permanAddr3
+FieldNameAlt: &#22266;&#23450;&#20303;&#22336;3
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: entryDate
+FieldNameAlt: &#25836;&#25269;&#28207;&#26085;&#26399;
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: stayDuration
+FieldNameAlt: &#25836;&#22312;&#28207;&#36887;&#30041;&#26178;&#38291;
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: sponNumber1
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: sponEngSurname1
+FieldNameAlt: &#22995;&#65288;&#33521;&#25991;&#65289;
+FieldFlags: 29360128
+FieldJustification: Left
+FieldMaxLength: 33
+---
+FieldType: Text
+FieldName: sponEngName1
+FieldNameAlt: &#21517;&#65288;&#33521;&#25991;&#65289;
+FieldFlags: 29360128
+FieldJustification: Left
+FieldMaxLength: 33
+---
+FieldType: Text
+FieldName: sponChnName1
+FieldNameAlt: &#22995;&#21517;&#65288;&#20013;&#25991;&#65289;&#65288;&#22914;&#36969;&#29992;&#65289;
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: sponAlias1
+FieldNameAlt: &#21029;&#21517;&#65288;&#22914;&#26377;&#65289;
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: sponSex1
+FieldFlags: 49152
+FieldJustification: Left
+FieldStateOption: &#30007;
+FieldStateOption: &#22899;
+FieldStateOption: Off
+---
+FieldType: Text
+FieldName: sponDobDay1
+FieldNameAlt: &#20986;&#29983;&#26085;
+FieldFlags: 29360128
+FieldJustification: Left
+FieldMaxLength: 2
+---
+FieldType: Text
+FieldName: sponDobMth1
+FieldNameAlt: &#20986;&#29983;&#26376;
+FieldFlags: 29360128
+FieldJustification: Left
+FieldMaxLength: 2
+---
+FieldType: Text
+FieldName: sponDobYr1
+FieldFlags: 29360128
+FieldJustification: Left
+FieldMaxLength: 4
+---
+FieldType: Text
+FieldName: sponBirthPlace1
+FieldNameAlt: &#20986;&#29983;&#22320;&#40670;
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: sponNational1
+FieldNameAlt: &#22283;&#31821;
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: sponRel1
+FieldNameAlt: &#38364;&#20418;
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: sponMaritalStat1
+FieldNameAlt: &#23130;&#23035;&#29376;&#27841;
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: sponTravelDocType1
+FieldNameAlt: &#26053;&#34892;&#35657;&#20214;&#39006;&#21029;
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: sponTravelDocNo1
+FieldNameAlt: &#26053;&#34892;&#35657;&#20214;&#34399;&#30908;
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: sponMainlandID1
+FieldNameAlt: &#20839;&#22320;&#36523;&#20221;&#35657;&#34399;&#30908;(&#22914;&#26377;)
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: sponPerDay1
+FieldNameAlt: &#29554;&#20934;&#36887;&#30041;&#33267; &#26085;
+FieldFlags: 29360128
+FieldJustification: Left
+FieldMaxLength: 2
+---
+FieldType: Text
+FieldName: sponPerMth1
+FieldNameAlt: &#29554;&#20934;&#36887;&#30041;&#33267; &#26376;
+FieldFlags: 29360128
+FieldJustification: Left
+FieldMaxLength: 2
+---
+FieldType: Text
+FieldName: sponPerYr1
+FieldNameAlt: &#29554;&#20934;&#36887;&#30041;&#33267; &#24180;
+FieldFlags: 29360128
+FieldJustification: Left
+FieldMaxLength: 4
+---
+FieldType: Button
+FieldName: sponStatus1
+FieldFlags: 49152
+FieldJustification: Left
+FieldStateOption: &#23416;&#29983;
+FieldStateOption: &#23601;&#26989;
+FieldStateOption: &#23621;&#30041;
+FieldStateOption: &#35370;&#23458;
+FieldStateOption: &#20854;&#20182;
+FieldStateOption: Off
+---
+FieldType: Text
+FieldName: sponOthers1
+FieldNameAlt: &#35498;&#26126;
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: sponHkidAlpha1
+FieldNameAlt: &#39321;&#28207;&#36523;&#20221;&#35657;&#34399;&#30908; &#27396;&#20301;1
+FieldFlags: 29360128
+FieldJustification: Right
+FieldMaxLength: 2
+---
+FieldType: Text
+FieldName: sponHkidDigit1
+FieldNameAlt: &#39321;&#28207;&#36523;&#20221;&#35657;&#34399;&#30908; &#27396;&#20301;2
+FieldFlags: 29360128
+FieldJustification: Left
+FieldMaxLength: 6
+---
+FieldType: Text
+FieldName: sponHkidChkD1
+FieldFlags: 29360128
+FieldJustification: Left
+FieldMaxLength: 1
+---
+FieldType: Text
+FieldName: sponCountry1
+FieldNameAlt: &#29694;&#26178;&#23450;&#23621;&#22283;&#23478;&#65295;&#22320;&#21312;
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: sponPerReside1
+FieldFlags: 49152
+FieldJustification: Left
+FieldStateOption: &#26159;
+FieldStateOption: &#21542;
+FieldStateOption: Off
+---
+FieldType: Text
+FieldName: sponNumber2
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: sponEngSurname2
+FieldNameAlt: &#22995;&#65288;&#33521;&#25991;&#65289;
+FieldFlags: 29360128
+FieldJustification: Left
+FieldMaxLength: 33
+---
+FieldType: Text
+FieldName: sponEngName2
+FieldNameAlt: &#21517;&#65288;&#33521;&#25991;&#65289;
+FieldFlags: 29360128
+FieldJustification: Left
+FieldMaxLength: 33
+---
+FieldType: Text
+FieldName: sponChnName2
+FieldNameAlt: &#22995;&#21517;&#65288;&#20013;&#25991;&#65289;&#65288;&#22914;&#36969;&#29992;&#65289;
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: sponAlias2
+FieldNameAlt: &#21029;&#21517;&#65288;&#22914;&#26377;&#65289;
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: sponSex2
+FieldFlags: 49152
+FieldJustification: Left
+FieldStateOption: &#30007;
+FieldStateOption: &#22899;
+FieldStateOption: Off
+---
+FieldType: Text
+FieldName: sponDobDay2
+FieldNameAlt: &#20986;&#29983;&#26085;
+FieldFlags: 29360128
+FieldJustification: Left
+FieldMaxLength: 2
+---
+FieldType: Text
+FieldName: sponDobMth2
+FieldNameAlt: &#20986;&#29983;&#26376;
+FieldFlags: 29360128
+FieldJustification: Left
+FieldMaxLength: 2
+---
+FieldType: Text
+FieldName: sponDobYr2
+FieldNameAlt: &#20986;&#29983;&#24180;
+FieldFlags: 29360128
+FieldJustification: Left
+FieldMaxLength: 4
+---
+FieldType: Text
+FieldName: sponBirthPlace2
+FieldNameAlt: &#20986;&#29983;&#22320;&#40670;
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: sponNational2
+FieldNameAlt: &#22283;&#31821;
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: sponRel2
+FieldNameAlt: &#38364;&#20418;
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: sponMaritalStat2
+FieldNameAlt: &#23130;&#23035;&#29376;&#27841;
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: sponTravelDocType2
+FieldNameAlt: &#26053;&#34892;&#35657;&#20214;&#39006;&#21029;
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: sponTravelDocNo2
+FieldNameAlt: &#26053;&#34892;&#35657;&#20214;&#34399;&#30908;
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: sponMainlandID2
+FieldNameAlt: &#20839;&#22320;&#36523;&#20221;&#35657;&#34399;&#30908;(&#22914;&#26377;)
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: sponPerDay2
+FieldNameAlt: &#29554;&#20934;&#36887;&#30041;&#33267; &#26085;
+FieldFlags: 29360128
+FieldJustification: Left
+FieldMaxLength: 2
+---
+FieldType: Text
+FieldName: sponPerMth2
+FieldNameAlt: &#29554;&#20934;&#36887;&#30041;&#33267; &#26376;
+FieldFlags: 29360128
+FieldJustification: Left
+FieldMaxLength: 2
+---
+FieldType: Text
+FieldName: sponPerYr2
+FieldNameAlt: &#29554;&#20934;&#36887;&#30041;&#33267; &#24180;
+FieldFlags: 29360128
+FieldJustification: Left
+FieldMaxLength: 4
+---
+FieldType: Button
+FieldName: sponStatus2
+FieldFlags: 49152
+FieldJustification: Left
+FieldStateOption: &#23416;&#29983;
+FieldStateOption: &#23601;&#26989;
+FieldStateOption: &#23621;&#30041;
+FieldStateOption: &#35370;&#23458;
+FieldStateOption: &#20854;&#20182;
+FieldStateOption: Off
+---
+FieldType: Text
+FieldName: sponOthers2
+FieldNameAlt: &#35498;&#26126;
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: sponHkidAlpha2
+FieldNameAlt: &#36523;&#20221;&#35657; &#27396;&#20301;1
+FieldFlags: 29360128
+FieldJustification: Right
+FieldMaxLength: 2
+---
+FieldType: Text
+FieldName: sponHkidDigit2
+FieldNameAlt: &#36523;&#20221;&#35657; &#27396;&#20301;2
+FieldFlags: 29360128
+FieldJustification: Left
+FieldMaxLength: 6
+---
+FieldType: Text
+FieldName: sponHkidChkD2
+FieldNameAlt: &#36523;&#20221;&#35657; &#27396;&#20301;3
+FieldFlags: 29360128
+FieldJustification: Left
+FieldMaxLength: 1
+---
+FieldType: Text
+FieldName: sponCountry2
+FieldNameAlt: &#29694;&#26178;&#23450;&#23621;&#22283;&#23478;&#65295;&#22320;&#21312;
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: sponPerReside2
+FieldFlags: 49152
+FieldJustification: Left
+FieldStateOption: &#26159;
+FieldStateOption: &#21542;
+FieldStateOption: Off
+---
+FieldType: Text
+FieldName: appDate2
+FieldNameAlt: &#26085;&#26399;
+FieldFlags: 12582912
+FieldJustification: Center
+---
+FieldType: Button
+FieldName: btnPG8
+FieldNameAlt: &#30003;&#35531;&#20154;
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnPG9
+FieldNameAlt: &#29238;
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnPG10
+FieldNameAlt: &#27597;
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnPG11
+FieldNameAlt: &#21512;&#27861;&#30435;&#35703;&#20154;
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnPG12
+FieldNameAlt: *Delete where inappropriate
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnPG13
+FieldNameAlt: *Delete where inappropriate
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnPG14
+FieldNameAlt: *Delete where inappropriate
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: schNameAddr
+FieldNameAlt: &#22312;&#28207;&#23601;&#35712;&#23416;&#26657;&#30340;&#21517;&#31281;&#21450;&#22320;&#22336;
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: classAttend
+FieldNameAlt: &#22312;&#28207;&#20837;&#35712;&#30340;&#24180;&#32026;&#65295;&#20462;&#35712;&#30340;&#35506;&#31243;
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: schName1
+FieldNameAlt: &#26366;&#23601;&#35712;&#30340;&#23416;&#26657; 1
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: majorSubj1
+FieldNameAlt: &#20027;&#20462;&#31185;&#30446; 1
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: degree1
+FieldNameAlt: &#29554;&#38930;&#30332;&#30340;&#23416;&#20301;&#65295;&#36039;&#26684;1
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: fromPeriod1
+FieldNameAlt: &#23601;&#35712;&#30001;&#65288;&#26376;&#65295;&#24180;&#65289;1
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: toPeriod1
+FieldNameAlt: &#23601;&#35712;&#30001;&#65288;&#26376;&#65295;&#24180;&#65289;1
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: schName2
+FieldNameAlt: &#26366;&#23601;&#35712;&#30340;&#23416;&#26657; 2
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: majorSubj2
+FieldNameAlt: &#20027;&#20462;&#31185;&#30446; 2
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: degree2
+FieldNameAlt: &#29554;&#38930;&#30332;&#30340;&#23416;&#20301;&#65295;&#36039;&#26684;2
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: fromPeriod2
+FieldNameAlt: &#23601;&#35712;&#30001;&#65288;&#26376;&#65295;&#24180;&#65289;2
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: toPeriod2
+FieldNameAlt: &#23601;&#35712;&#30001;&#65288;&#26376;&#65295;&#24180;&#65289;2
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: schName3
+FieldNameAlt: &#26366;&#23601;&#35712;&#30340;&#23416;&#26657; 3
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: majorSubj3
+FieldNameAlt: &#20027;&#20462;&#31185;&#30446; 3
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: degree3
+FieldNameAlt: &#29554;&#38930;&#30332;&#30340;&#23416;&#20301;&#65295;&#36039;&#26684;3
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: fromPeriod3
+FieldNameAlt: &#23601;&#35712;&#30001;&#65288;&#26376;&#65295;&#24180;&#65289;3
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: toPeriod3
+FieldNameAlt: &#23601;&#35712;&#30001;&#65288;&#26376;&#65295;&#24180;&#65289;3
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: schName4
+FieldNameAlt: &#26366;&#23601;&#35712;&#30340;&#23416;&#26657; 4
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: majorSubj4
+FieldNameAlt: &#20027;&#20462;&#31185;&#30446; 4
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: degree4
+FieldNameAlt: &#29554;&#38930;&#30332;&#30340;&#23416;&#20301;&#65295;&#36039;&#26684;4
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: fromPeriod4
+FieldNameAlt: &#23601;&#35712;&#30001;&#65288;&#26376;&#65295;&#24180;&#65289;4
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: toPeriod4
+FieldNameAlt: &#23601;&#35712;&#30001;&#65288;&#26376;&#65295;&#24180;&#65289;4
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: schName5
+FieldNameAlt: &#26366;&#23601;&#35712;&#30340;&#23416;&#26657; 5
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: majorSubj5
+FieldNameAlt: &#20027;&#20462;&#31185;&#30446; 5
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: degree5
+FieldNameAlt: &#29554;&#38930;&#30332;&#30340;&#23416;&#20301;&#65295;&#36039;&#26684;5
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: fromPeriod5
+FieldNameAlt: &#23601;&#35712;&#30001;&#65288;&#26376;&#65295;&#24180;&#65289;5
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: toPeriod5
+FieldNameAlt: &#23601;&#35712;&#30001;&#65288;&#26376;&#65295;&#24180;&#65289;5
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: schFeeCost
+FieldNameAlt: &#23416;&#36027;
+FieldFlags: 12582912
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: schFeeDesc
+FieldNameAlt: &#23416;&#36027;
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: accommodation
+FieldFlags: 49152
+FieldJustification: Left
+FieldStateOption: &#23487;&#33293;
+FieldStateOption: &#31199;&#20303;&#27155;&#23431;
+FieldStateOption: &#33287;&#35242;&#20154;&#23621;&#20303;
+FieldStateOption: Off
+---
+FieldType: Text
+FieldName: accomCost
+FieldNameAlt: &#20303;&#23487;&#36027;
+FieldFlags: 12582912
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: accomDesc
+FieldNameAlt: &#20303;&#23487;
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: transportCost
+FieldNameAlt: &#20132;&#36890;&#36027;&#21450;&#33203;&#39135;&#36027;
+FieldFlags: 12582912
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: transportDesc
+FieldNameAlt: &#20132;&#36890;&#36027;&#21450;&#33203;&#39135;&#36027; &#31777;&#36848;
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: othersCost
+FieldNameAlt: &#20854;&#20182;&#36027;
+FieldFlags: 12582912
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: othersDesc
+FieldNameAlt: &#20854;&#20182; &#31777;&#36848;
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: totalCost
+FieldNameAlt: &#32317;&#35336;
+FieldFlags: 12582912
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: totalDesc
+FieldNameAlt: &#32317;&#35336; &#31777;&#36848;
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: depositCost
+FieldNameAlt: &#23384;&#27454;&#37329;&#38989;
+FieldFlags: 12582912
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: depositDesc
+FieldNameAlt: &#23384;&#27454;&#31777;&#36848;
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: incomeCost
+FieldNameAlt: &#20837;&#24687;&#37329;&#38989;
+FieldFlags: 12582912
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: incomeDesc
+FieldNameAlt: &#20837;&#24687;&#31777;&#36848;
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: othersFinCost
+FieldNameAlt: &#20854;&#20182;&#37329;&#38989;
+FieldFlags: 12582912
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: othersFinDesc
+FieldNameAlt: &#20854;&#20182; &#31777;&#36848;
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: shortTermStudy
+FieldFlags: 49152
+FieldJustification: Left
+FieldStateOption: &#26159;
+FieldStateOption: &#21542;
+FieldStateOption: Off
+---
+FieldType: Text
+FieldName: shortTermInfo
+FieldNameAlt: (&#35531;&#25552;&#20379;&#35442;&#30701;&#26399;&#35506;&#31243;&#30340;&#21517;&#31281;&#12289;&#20462;&#35712;&#23416;&#26657;&#21450;&#20462;&#35712;&#26085;&#26399;)
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: appDate3
+FieldNameAlt: &#26085;&#26399;
+FieldFlags: 12582912
+FieldJustification: Center
+---
+FieldType: Button
+FieldName: btnPG15
+FieldNameAlt: &#30003;&#35531;&#20154;
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnPG16
+FieldNameAlt: &#29238;
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnPG17
+FieldNameAlt: &#27597;
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnPG18
+FieldNameAlt: &#21512;&#27861;&#30435;&#35703;&#20154;
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnPG19
+FieldNameAlt: *Delete where inappropriate
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnPG20
+FieldNameAlt: *Delete where inappropriate
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnPG21
+FieldNameAlt: *Delete where inappropriate
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: depNo1
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: depChnName1
+FieldNameAlt: &#22995;&#21517;&#65288;&#20013;&#25991;&#65289;
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: depMaidSurname1
+FieldNameAlt: &#23130;&#21069;&#22995;&#27663;
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: depEngSurname1
+FieldNameAlt: &#22995;&#65288;&#33521;&#25991;)
+FieldFlags: 29360128
+FieldJustification: Left
+FieldMaxLength: 33
+---
+FieldType: Text
+FieldName: depEngName1
+FieldNameAlt: &#21517;&#65288;&#33521;&#25991;&#65289;
+FieldFlags: 29360128
+FieldJustification: Left
+FieldMaxLength: 33
+---
+FieldType: Button
+FieldName: btnMe11
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnChild11
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnMe12
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnChild12
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: depUsedName1
+FieldFlags: 12582912
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: depRefEntry1
+FieldFlags: 49152
+FieldJustification: Left
+FieldStateOption: N
+FieldStateOption: Off
+FieldStateOption: Y
+---
+FieldType: Button
+FieldName: btnMe13
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnChild13
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnMe14
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnChild14
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: depPreRefEntry1
+FieldNameAlt: &#26377;&#38364;&#26085;&#26399;&#21450;&#35443;&#32048;&#36039;&#26009;
+FieldFlags: 12582912
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: depRefVisa1
+FieldFlags: 49152
+FieldJustification: Left
+FieldStateOption: N
+FieldStateOption: Off
+FieldStateOption: Y
+---
+FieldType: Button
+FieldName: btnMe15
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnChild15
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnChild16
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: depPreRefVisa1
+FieldNameAlt: &#26377;&#38364;&#26085;&#26399;&#21450;&#35443;&#32048;&#36039;&#26009;
+FieldFlags: 12582912
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: sponsorNameChn1
+FieldNameAlt: &#20445;&#35657;&#20154;&#22995;&#21517;
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnMe16
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: sponsorNameEng1
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnMe17
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnChild17
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnMe18
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnChild18
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnMe19
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnChild19
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: declaration3
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnMe20
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnChild20
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: appDate5
+FieldNameAlt: &#26085;&#26399;
+FieldFlags: 12582912
+FieldJustification: Center
+---
+FieldType: Button
+FieldName: btnPG33
+FieldNameAlt: &#21463;&#39178;&#20154;&#31805;&#32626;
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnPG35
+FieldNameAlt: &#27597;
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnPG36
+FieldNameAlt: &#21512;&#27861;&#30435;&#35703;&#20154;
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnPG38
+FieldNameAlt: *Delete where inappropriate
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnPG40
+FieldNameAlt: *Delete where inappropriate
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnPG41
+FieldNameAlt: *Delete where inappropriate
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnPG37
+FieldNameAlt: &#22995;&#21517;&#21450;&#31805;&#32626;
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnPG39
+FieldNameAlt: *Delete where inappropriate
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: depChgName1
+FieldFlags: 49152
+FieldJustification: Left
+FieldStateOption: Y
+FieldStateOption: Off
+FieldStateOption: N
+---
+FieldType: Text
+FieldName: depNo2
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: depChgName2
+FieldFlags: 49152
+FieldJustification: Left
+FieldStateOption: Y
+FieldStateOption: Off
+---
+FieldType: Button
+FieldName: btnMe22
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnChild22
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnMe23
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnChild23
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: depRefEntry2
+FieldFlags: 49152
+FieldJustification: Left
+FieldStateOption: N
+FieldStateOption: Off
+FieldStateOption: Y
+---
+FieldType: Button
+FieldName: btnMe24
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnChild24
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnMe25
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnChild25
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: depRefVisa2
+FieldFlags: 49152
+FieldJustification: Left
+FieldStateOption: N
+FieldStateOption: Off
+FieldStateOption: Y
+---
+FieldType: Button
+FieldName: btnMe26
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnChild26
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnMe27
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnChild27
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnMe28
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnChild28
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnMe29
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnChild29
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnMe30
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnChild30
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnMe31
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnChild31
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnMe32
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnChild32
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: depChnName2
+FieldNameAlt: &#22995;&#21517;(&#20013;&#25991;)
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: depMaidSurname2
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: depEngSurname2
+FieldNameAlt: &#22995;(&#33521;&#25991;)
+FieldFlags: 29360128
+FieldJustification: Left
+FieldMaxLength: 33
+---
+FieldType: Text
+FieldName: depEngName2
+FieldNameAlt: &#21517;(&#33521;&#25991;)
+FieldFlags: 29360128
+FieldJustification: Left
+FieldMaxLength: 33
+---
+FieldType: Text
+FieldName: depUsedName2
+FieldFlags: 12582912
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: depPreRefEntry2
+FieldFlags: 12582912
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: depPreRefVisa2
+FieldFlags: 12582912
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: sponsorNameChn2
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: sponsorNameEng2
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: appDate
+FieldNameAlt: &#26085;&#26399;
+FieldFlags: 12582912
+FieldJustification: Center
+---
+FieldType: Button
+FieldName: btnPG44
+FieldNameAlt: &#21463;&#39178;&#20154;&#31805;&#32626;
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnPG46
+FieldNameAlt: &#27597;
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnPG47
+FieldNameAlt: &#21512;&#27861;&#30435;&#35703;&#20154;
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnPG49
+FieldNameAlt: *Delete where inappropriate
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnPG51
+FieldNameAlt: *Delete where inappropriate
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnPG52
+FieldNameAlt: *Delete where inappropriate
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnPG48
+FieldNameAlt: &#22995;&#21517;&#21450;&#31805;&#32626;
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnPG50
+FieldNameAlt: *Delete where inappropriate
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: chgName
+FieldFlags: 49152
+FieldJustification: Left
+FieldStateOption: &#26159;
+FieldStateOption: &#21542;
+FieldStateOption: Off
+---
+FieldType: Button
+FieldName: btnMe1
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnChild1
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnMe2
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnChild2
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: usedName
+FieldNameAlt: &#26366;&#29992;&#30340;&#22995;&#21517;
+FieldFlags: 12582912
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: refEntry
+FieldFlags: 49152
+FieldJustification: Left
+FieldStateOption: &#26159;
+FieldStateOption: &#21542;
+FieldStateOption: Off
+---
+FieldType: Button
+FieldName: btnMe3
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnChild3
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnMe4
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnChild4
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: preRefEntry
+FieldNameAlt: &#26377;&#38364;&#30340;&#26085;&#26399;&#21450;&#35443;&#32048;&#36039;&#26009;&#22914;&#19979;
+FieldFlags: 12582912
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: refVisa
+FieldFlags: 49152
+FieldJustification: Left
+FieldStateOption: &#26159;
+FieldStateOption: &#21542;
+FieldStateOption: Off
+---
+FieldType: Button
+FieldName: btnMe5
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnChild5
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnMe6
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnChild6
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: preRefVisa
+FieldNameAlt: &#26377;&#38364;&#30340;&#26085;&#26399;&#21450;&#35443;&#32048;&#36039;&#26009;&#22914;&#19979;
+FieldFlags: 12582912
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnMe7
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnChild7
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnMe8
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnChild8
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnMe9
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnChild9
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: declaration1
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: domPlaceChn
+FieldFlags: 12582912
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: domPlaceEng
+FieldFlags: 12582912
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: declaration2
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnMe10
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnChild10
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: appDate4
+FieldNameAlt: &#26085;&#26399;
+FieldFlags: 12582912
+FieldJustification: Center
+---
+FieldType: Button
+FieldName: btnPG22
+FieldNameAlt: *Delete where inappropriate
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnPG23
+FieldNameAlt: *Delete where inappropriate
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnPG24
+FieldNameAlt: *Delete where inappropriate
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnPG25
+FieldNameAlt: *Delete where inappropriate
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnPG27
+FieldNameAlt: *Delete where inappropriate
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnPG29
+FieldNameAlt: *Delete where inappropriate
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnPG30
+FieldNameAlt: *Delete where inappropriate
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnPG26
+FieldNameAlt: *Delete where inappropriate
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnPG28
+FieldNameAlt: *Delete where inappropriate
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnPG31
+FieldNameAlt: *Delete where inappropriate
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnPG32
+FieldNameAlt: *Delete where inappropriate
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: declaration4
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: otherMarital
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnPG34
+FieldNameAlt: &#29238;
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnPG43
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnPG42
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnPG45
+FieldNameAlt: &#29238;
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnPG53
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnPG54
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnChild21
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnMe21
+FieldFlags: 65536
+FieldJustification: Left

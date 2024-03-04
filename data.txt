@@ -1,0 +1,6145 @@
+---
+FieldType: Text
+FieldName: chnName
+FieldNameAlt: 姓名（中文）
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: maidSurname
+FieldNameAlt: 婚前姓氏（如適用）
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: engSurname
+FieldNameAlt: 姓（英文）
+FieldFlags: 29360128
+FieldJustification: Left
+FieldMaxLength: 33
+---
+FieldType: Text
+FieldName: engName
+FieldNameAlt: 名（英文）
+FieldFlags: 29360128
+FieldJustification: Left
+FieldMaxLength: 33
+---
+FieldType: Text
+FieldName: alias
+FieldNameAlt: 別名（如有）
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: sex
+FieldFlags: 49152
+FieldJustification: Left
+FieldStateOption: 男
+FieldStateOption: 女
+FieldStateOption: Off
+---
+FieldType: Text
+FieldName: dobDay
+FieldNameAlt: 出生日
+FieldFlags: 29360128
+FieldJustification: Left
+FieldMaxLength: 2
+---
+FieldType: Text
+FieldName: dobMth
+FieldNameAlt: 出生月
+FieldFlags: 29360128
+FieldJustification: Left
+FieldMaxLength: 2
+---
+FieldType: Text
+FieldName: dobYr
+FieldNameAlt: 出生年
+FieldFlags: 29360128
+FieldJustification: Left
+FieldMaxLength: 4
+---
+FieldType: Text
+FieldName: birthPlace
+FieldNameAlt: 出生地點
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: national
+FieldNameAlt: 國藉
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: maritalStat
+FieldFlags: 49152
+FieldJustification: Left
+FieldStateOption: 未婚
+FieldStateOption: 已婚
+FieldStateOption: 離婚
+FieldStateOption: 分居
+FieldStateOption: 喪偶
+FieldStateOption: 其他
+FieldStateOption: Off
+---
+FieldType: Text
+FieldName: hkidAlpha
+FieldNameAlt: 香港身份證號碼 欄位1
+FieldFlags: 29360128
+FieldJustification: Right
+FieldMaxLength: 2
+---
+FieldType: Text
+FieldName: hkidDigit
+FieldNameAlt: 香港身份證號碼 欄位2
+FieldFlags: 29360128
+FieldJustification: Left
+FieldMaxLength: 6
+---
+FieldType: Text
+FieldName: hkidChkD
+FieldNameAlt: 香港身份證號碼 欄位3
+FieldFlags: 29360128
+FieldJustification: Left
+FieldMaxLength: 1
+---
+FieldType: Text
+FieldName: mainlandID
+FieldNameAlt: 內地身份證號碼（ 如有）
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: travelDocType
+FieldNameAlt: 旅行證件類別
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: travelDocNo
+FieldFlags: 29360128
+FieldJustification: Left
+FieldMaxLength: 15
+---
+FieldType: Text
+FieldName: issuePlace
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: doiDay
+FieldNameAlt: 簽發日
+FieldFlags: 29360128
+FieldJustification: Left
+FieldMaxLength: 2
+---
+FieldType: Text
+FieldName: doiMth
+FieldNameAlt: 簽發月
+FieldFlags: 29360128
+FieldJustification: Left
+FieldMaxLength: 2
+---
+FieldType: Text
+FieldName: doiYr
+FieldNameAlt: 簽發年
+FieldFlags: 29360128
+FieldJustification: Left
+FieldMaxLength: 4
+---
+FieldType: Text
+FieldName: doeDay
+FieldNameAlt: 屆滿日
+FieldFlags: 29360128
+FieldJustification: Left
+FieldMaxLength: 2
+---
+FieldType: Text
+FieldName: doeMth
+FieldNameAlt: 屆滿月
+FieldFlags: 29360128
+FieldJustification: Left
+FieldMaxLength: 2
+---
+FieldType: Text
+FieldName: doeYr
+FieldNameAlt: 屆滿年
+FieldFlags: 29360128
+FieldJustification: Left
+FieldMaxLength: 4
+---
+FieldType: Text
+FieldName: appEmail
+FieldNameAlt: 電郵地址（如有)
+FieldFlags: 29360128
+FieldJustification: Left
+FieldMaxLength: 36
+---
+FieldType: Text
+FieldName: appTel
+FieldNameAlt: 聯絡電話號碼
+FieldFlags: 12582912
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: faxNo
+FieldNameAlt: 傳真號碼（如有)
+FieldFlags: 12582912
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: domCountry
+FieldNameAlt: 現時定居國家／地區
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: preReside
+FieldFlags: 49152
+FieldJustification: Left
+FieldStateOption: 是
+FieldStateOption: 否
+FieldStateOption: Off
+---
+FieldType: Text
+FieldName: resYear
+FieldNameAlt: 居留 年
+FieldFlags: 29360128
+FieldJustification: Left
+FieldMaxLength: 2
+---
+FieldType: Text
+FieldName: resMonth
+FieldNameAlt: 居留 月
+FieldFlags: 29360128
+FieldJustification: Left
+FieldMaxLength: 2
+---
+FieldType: Text
+FieldName: appOccupation
+FieldNameAlt: 職業
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: curEmployer
+FieldNameAlt: 現時僱主的名稱（如適用）
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: curEmpAddr
+FieldNameAlt: 現時僱主的地址（如適用）
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: appStay
+FieldFlags: 49152
+FieldJustification: Left
+FieldStateOption: 是
+FieldStateOption: 否
+FieldStateOption: Off
+---
+FieldType: Text
+FieldName: perDay
+FieldNameAlt: 獲准逗留至 日
+FieldFlags: 29360128
+FieldJustification: Left
+FieldMaxLength: 2
+---
+FieldType: Text
+FieldName: perMth
+FieldNameAlt: 獲准逗留至 月
+FieldFlags: 29360128
+FieldJustification: Left
+FieldMaxLength: 2
+---
+FieldType: Text
+FieldName: perYr
+FieldNameAlt: 獲准逗留至 年
+FieldFlags: 29360128
+FieldJustification: Left
+FieldMaxLength: 4
+---
+FieldType: Button
+FieldName: status
+FieldFlags: 49152
+FieldJustification: Left
+FieldStateOption: 就業
+FieldStateOption: 居留／受養人
+FieldStateOption: 訪客
+FieldStateOption: 其他
+FieldStateOption: Off
+---
+FieldType: Text
+FieldName: others
+FieldNameAlt: 說明
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: appDate1
+FieldNameAlt: 日期
+FieldFlags: 12582912
+FieldJustification: Center
+---
+FieldType: Text
+FieldName: formVersion
+FieldFlags: 12582912
+FieldValue: 10/2008
+FieldValueDefault: 10/2008
+FieldJustification: Left
+FieldMaxLength: 7
+---
+FieldType: Signature
+FieldName: certifyField
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: formID
+FieldFlags: 8388608
+FieldValue: ID1003A
+FieldValueDefault: ID1003A
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: errMsg
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: fldError
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnPG1
+FieldNameAlt: 申請人
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnPG2
+FieldNameAlt: 父
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnPG3
+FieldNameAlt: 母
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnPG4
+FieldNameAlt: 合法監護人
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnPG5
+FieldNameAlt: *Delete where inappropriate
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnPG6
+FieldNameAlt: *Delete where inappropriate
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnPG7
+FieldNameAlt: *Delete where inappropriate
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: Print
+FieldNameAlt: 列印
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: Clear Form
+FieldNameAlt: 清除表格
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: Button1
+FieldNameAlt: 可輸入資料
+FieldFlags: 65537
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: presentAddr1
+FieldNameAlt: 現時住址1
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: presentAddr2
+FieldNameAlt: 現時住址2
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: presentAddr3
+FieldNameAlt: 現時住址3
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: permanAddr1
+FieldNameAlt: 固定住址1
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: permanAddr2
+FieldNameAlt: 固定住址2
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: permanAddr3
+FieldNameAlt: 固定住址3
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: entryDate
+FieldNameAlt: 擬抵港日期
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: stayDuration
+FieldNameAlt: 擬在港逗留時間
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: sponNumber1
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: sponEngSurname1
+FieldNameAlt: 姓（英文）
+FieldFlags: 29360128
+FieldJustification: Left
+FieldMaxLength: 33
+---
+FieldType: Text
+FieldName: sponEngName1
+FieldNameAlt: 名（英文）
+FieldFlags: 29360128
+FieldJustification: Left
+FieldMaxLength: 33
+---
+FieldType: Text
+FieldName: sponChnName1
+FieldNameAlt: 姓名（中文）（如適用）
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: sponAlias1
+FieldNameAlt: 別名（如有）
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: sponSex1
+FieldFlags: 49152
+FieldJustification: Left
+FieldStateOption: 男
+FieldStateOption: 女
+FieldStateOption: Off
+---
+FieldType: Text
+FieldName: sponDobDay1
+FieldNameAlt: 出生日
+FieldFlags: 29360128
+FieldJustification: Left
+FieldMaxLength: 2
+---
+FieldType: Text
+FieldName: sponDobMth1
+FieldNameAlt: 出生月
+FieldFlags: 29360128
+FieldJustification: Left
+FieldMaxLength: 2
+---
+FieldType: Text
+FieldName: sponDobYr1
+FieldFlags: 29360128
+FieldJustification: Left
+FieldMaxLength: 4
+---
+FieldType: Text
+FieldName: sponBirthPlace1
+FieldNameAlt: 出生地點
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: sponNational1
+FieldNameAlt: 國籍
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: sponRel1
+FieldNameAlt: 關係
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: sponMaritalStat1
+FieldNameAlt: 婚姻狀況
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: sponTravelDocType1
+FieldNameAlt: 旅行證件類別
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: sponTravelDocNo1
+FieldNameAlt: 旅行證件號碼
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: sponMainlandID1
+FieldNameAlt: 內地身份證號碼(如有)
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: sponPerDay1
+FieldNameAlt: 獲准逗留至 日
+FieldFlags: 29360128
+FieldJustification: Left
+FieldMaxLength: 2
+---
+FieldType: Text
+FieldName: sponPerMth1
+FieldNameAlt: 獲准逗留至 月
+FieldFlags: 29360128
+FieldJustification: Left
+FieldMaxLength: 2
+---
+FieldType: Text
+FieldName: sponPerYr1
+FieldNameAlt: 獲准逗留至 年
+FieldFlags: 29360128
+FieldJustification: Left
+FieldMaxLength: 4
+---
+FieldType: Button
+FieldName: sponStatus1
+FieldFlags: 49152
+FieldJustification: Left
+FieldStateOption: 學生
+FieldStateOption: 就業
+FieldStateOption: 居留
+FieldStateOption: 訪客
+FieldStateOption: 其他
+FieldStateOption: Off
+---
+FieldType: Text
+FieldName: sponOthers1
+FieldNameAlt: 說明
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: sponHkidAlpha1
+FieldNameAlt: 香港身份證號碼 欄位1
+FieldFlags: 29360128
+FieldJustification: Right
+FieldMaxLength: 2
+---
+FieldType: Text
+FieldName: sponHkidDigit1
+FieldNameAlt: 香港身份證號碼 欄位2
+FieldFlags: 29360128
+FieldJustification: Left
+FieldMaxLength: 6
+---
+FieldType: Text
+FieldName: sponHkidChkD1
+FieldFlags: 29360128
+FieldJustification: Left
+FieldMaxLength: 1
+---
+FieldType: Text
+FieldName: sponCountry1
+FieldNameAlt: 現時定居國家／地區
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: sponPerReside1
+FieldFlags: 49152
+FieldJustification: Left
+FieldStateOption: 是
+FieldStateOption: 否
+FieldStateOption: Off
+---
+FieldType: Text
+FieldName: sponNumber2
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: sponEngSurname2
+FieldNameAlt: 姓（英文）
+FieldFlags: 29360128
+FieldJustification: Left
+FieldMaxLength: 33
+---
+FieldType: Text
+FieldName: sponEngName2
+FieldNameAlt: 名（英文）
+FieldFlags: 29360128
+FieldJustification: Left
+FieldMaxLength: 33
+---
+FieldType: Text
+FieldName: sponChnName2
+FieldNameAlt: 姓名（中文）（如適用）
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: sponAlias2
+FieldNameAlt: 別名（如有）
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: sponSex2
+FieldFlags: 49152
+FieldJustification: Left
+FieldStateOption: 男
+FieldStateOption: 女
+FieldStateOption: Off
+---
+FieldType: Text
+FieldName: sponDobDay2
+FieldNameAlt: 出生日
+FieldFlags: 29360128
+FieldJustification: Left
+FieldMaxLength: 2
+---
+FieldType: Text
+FieldName: sponDobMth2
+FieldNameAlt: 出生月
+FieldFlags: 29360128
+FieldJustification: Left
+FieldMaxLength: 2
+---
+FieldType: Text
+FieldName: sponDobYr2
+FieldNameAlt: 出生年
+FieldFlags: 29360128
+FieldJustification: Left
+FieldMaxLength: 4
+---
+FieldType: Text
+FieldName: sponBirthPlace2
+FieldNameAlt: 出生地點
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: sponNational2
+FieldNameAlt: 國籍
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: sponRel2
+FieldNameAlt: 關係
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: sponMaritalStat2
+FieldNameAlt: 婚姻狀況
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: sponTravelDocType2
+FieldNameAlt: 旅行證件類別
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: sponTravelDocNo2
+FieldNameAlt: 旅行證件號碼
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: sponMainlandID2
+FieldNameAlt: 內地身份證號碼(如有)
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: sponPerDay2
+FieldNameAlt: 獲准逗留至 日
+FieldFlags: 29360128
+FieldJustification: Left
+FieldMaxLength: 2
+---
+FieldType: Text
+FieldName: sponPerMth2
+FieldNameAlt: 獲准逗留至 月
+FieldFlags: 29360128
+FieldJustification: Left
+FieldMaxLength: 2
+---
+FieldType: Text
+FieldName: sponPerYr2
+FieldNameAlt: 獲准逗留至 年
+FieldFlags: 29360128
+FieldJustification: Left
+FieldMaxLength: 4
+---
+FieldType: Button
+FieldName: sponStatus2
+FieldFlags: 49152
+FieldJustification: Left
+FieldStateOption: 學生
+FieldStateOption: 就業
+FieldStateOption: 居留
+FieldStateOption: 訪客
+FieldStateOption: 其他
+FieldStateOption: Off
+---
+FieldType: Text
+FieldName: sponOthers2
+FieldNameAlt: 說明
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: sponHkidAlpha2
+FieldNameAlt: 身份證 欄位1
+FieldFlags: 29360128
+FieldJustification: Right
+FieldMaxLength: 2
+---
+FieldType: Text
+FieldName: sponHkidDigit2
+FieldNameAlt: 身份證 欄位2
+FieldFlags: 29360128
+FieldJustification: Left
+FieldMaxLength: 6
+---
+FieldType: Text
+FieldName: sponHkidChkD2
+FieldNameAlt: 身份證 欄位3
+FieldFlags: 29360128
+FieldJustification: Left
+FieldMaxLength: 1
+---
+FieldType: Text
+FieldName: sponCountry2
+FieldNameAlt: 現時定居國家／地區
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: sponPerReside2
+FieldFlags: 49152
+FieldJustification: Left
+FieldStateOption: 是
+FieldStateOption: 否
+FieldStateOption: Off
+---
+FieldType: Text
+FieldName: appDate2
+FieldNameAlt: 日期
+FieldFlags: 12582912
+FieldJustification: Center
+---
+FieldType: Button
+FieldName: btnPG8
+FieldNameAlt: 申請人
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnPG9
+FieldNameAlt: 父
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnPG10
+FieldNameAlt: 母
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnPG11
+FieldNameAlt: 合法監護人
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnPG12
+FieldNameAlt: *Delete where inappropriate
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnPG13
+FieldNameAlt: *Delete where inappropriate
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnPG14
+FieldNameAlt: *Delete where inappropriate
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: schNameAddr
+FieldNameAlt: 在港就讀學校的名稱及地址
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: classAttend
+FieldNameAlt: 在港入讀的年級／修讀的課程
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: schName1
+FieldNameAlt: 曾就讀的學校 1
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: majorSubj1
+FieldNameAlt: 主修科目 1
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: degree1
+FieldNameAlt: 獲頒發的學位／資格1
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: fromPeriod1
+FieldNameAlt: 就讀由（月／年）1
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: toPeriod1
+FieldNameAlt: 就讀由（月／年）1
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: schName2
+FieldNameAlt: 曾就讀的學校 2
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: majorSubj2
+FieldNameAlt: 主修科目 2
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: degree2
+FieldNameAlt: 獲頒發的學位／資格2
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: fromPeriod2
+FieldNameAlt: 就讀由（月／年）2
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: toPeriod2
+FieldNameAlt: 就讀由（月／年）2
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: schName3
+FieldNameAlt: 曾就讀的學校 3
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: majorSubj3
+FieldNameAlt: 主修科目 3
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: degree3
+FieldNameAlt: 獲頒發的學位／資格3
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: fromPeriod3
+FieldNameAlt: 就讀由（月／年）3
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: toPeriod3
+FieldNameAlt: 就讀由（月／年）3
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: schName4
+FieldNameAlt: 曾就讀的學校 4
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: majorSubj4
+FieldNameAlt: 主修科目 4
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: degree4
+FieldNameAlt: 獲頒發的學位／資格4
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: fromPeriod4
+FieldNameAlt: 就讀由（月／年）4
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: toPeriod4
+FieldNameAlt: 就讀由（月／年）4
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: schName5
+FieldNameAlt: 曾就讀的學校 5
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: majorSubj5
+FieldNameAlt: 主修科目 5
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: degree5
+FieldNameAlt: 獲頒發的學位／資格5
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: fromPeriod5
+FieldNameAlt: 就讀由（月／年）5
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: toPeriod5
+FieldNameAlt: 就讀由（月／年）5
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: schFeeCost
+FieldNameAlt: 學費
+FieldFlags: 12582912
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: schFeeDesc
+FieldNameAlt: 學費
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: accommodation
+FieldFlags: 49152
+FieldJustification: Left
+FieldStateOption: 宿舍
+FieldStateOption: 租住樓宇
+FieldStateOption: 與親人居住
+FieldStateOption: Off
+---
+FieldType: Text
+FieldName: accomCost
+FieldNameAlt: 住宿費
+FieldFlags: 12582912
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: accomDesc
+FieldNameAlt: 住宿
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: transportCost
+FieldNameAlt: 交通費及膳食費
+FieldFlags: 12582912
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: transportDesc
+FieldNameAlt: 交通費及膳食費 簡述
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: othersCost
+FieldNameAlt: 其他費
+FieldFlags: 12582912
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: othersDesc
+FieldNameAlt: 其他 簡述
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: totalCost
+FieldNameAlt: 總計
+FieldFlags: 12582912
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: totalDesc
+FieldNameAlt: 總計 簡述
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: depositCost
+FieldNameAlt: 存款金額
+FieldFlags: 12582912
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: depositDesc
+FieldNameAlt: 存款簡述
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: incomeCost
+FieldNameAlt: 入息金額
+FieldFlags: 12582912
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: incomeDesc
+FieldNameAlt: 入息簡述
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: othersFinCost
+FieldNameAlt: 其他金額
+FieldFlags: 12582912
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: othersFinDesc
+FieldNameAlt: 其他 簡述
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: shortTermStudy
+FieldFlags: 49152
+FieldJustification: Left
+FieldStateOption: 是
+FieldStateOption: 否
+FieldStateOption: Off
+---
+FieldType: Text
+FieldName: shortTermInfo
+FieldNameAlt: (請提供該短期課程的名稱、修讀學校及修讀日期)
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: appDate3
+FieldNameAlt: 日期
+FieldFlags: 12582912
+FieldJustification: Center
+---
+FieldType: Button
+FieldName: btnPG15
+FieldNameAlt: 申請人
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnPG16
+FieldNameAlt: 父
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnPG17
+FieldNameAlt: 母
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnPG18
+FieldNameAlt: 合法監護人
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnPG19
+FieldNameAlt: *Delete where inappropriate
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnPG20
+FieldNameAlt: *Delete where inappropriate
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnPG21
+FieldNameAlt: *Delete where inappropriate
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: depNo1
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: depChnName1
+FieldNameAlt: 姓名（中文）
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: depMaidSurname1
+FieldNameAlt: 婚前姓氏
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: depEngSurname1
+FieldNameAlt: 姓（英文)
+FieldFlags: 29360128
+FieldJustification: Left
+FieldMaxLength: 33
+---
+FieldType: Text
+FieldName: depEngName1
+FieldNameAlt: 名（英文）
+FieldFlags: 29360128
+FieldJustification: Left
+FieldMaxLength: 33
+---
+FieldType: Button
+FieldName: btnMe11
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnChild11
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnMe12
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnChild12
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: depUsedName1
+FieldFlags: 12582912
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: depRefEntry1
+FieldFlags: 49152
+FieldJustification: Left
+FieldStateOption: N
+FieldStateOption: Off
+FieldStateOption: Y
+---
+FieldType: Button
+FieldName: btnMe13
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnChild13
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnMe14
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnChild14
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: depPreRefEntry1
+FieldNameAlt: 有關日期及詳細資料
+FieldFlags: 12582912
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: depRefVisa1
+FieldFlags: 49152
+FieldJustification: Left
+FieldStateOption: N
+FieldStateOption: Off
+FieldStateOption: Y
+---
+FieldType: Button
+FieldName: btnMe15
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnChild15
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnChild16
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: depPreRefVisa1
+FieldNameAlt: 有關日期及詳細資料
+FieldFlags: 12582912
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: sponsorNameChn1
+FieldNameAlt: 保證人姓名
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnMe16
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: sponsorNameEng1
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnMe17
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnChild17
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnMe18
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnChild18
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnMe19
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnChild19
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: declaration3
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnMe20
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnChild20
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: appDate5
+FieldNameAlt: 日期
+FieldFlags: 12582912
+FieldJustification: Center
+---
+FieldType: Button
+FieldName: btnPG33
+FieldNameAlt: 受養人簽署
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnPG35
+FieldNameAlt: 母
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnPG36
+FieldNameAlt: 合法監護人
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnPG38
+FieldNameAlt: *Delete where inappropriate
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnPG40
+FieldNameAlt: *Delete where inappropriate
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnPG41
+FieldNameAlt: *Delete where inappropriate
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnPG37
+FieldNameAlt: 姓名及簽署
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnPG39
+FieldNameAlt: *Delete where inappropriate
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: depChgName1
+FieldFlags: 49152
+FieldJustification: Left
+FieldStateOption: Y
+FieldStateOption: Off
+FieldStateOption: N
+---
+FieldType: Text
+FieldName: depNo2
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: depChgName2
+FieldFlags: 49152
+FieldJustification: Left
+FieldStateOption: Y
+FieldStateOption: Off
+---
+FieldType: Button
+FieldName: btnMe22
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnChild22
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnMe23
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnChild23
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: depRefEntry2
+FieldFlags: 49152
+FieldJustification: Left
+FieldStateOption: N
+FieldStateOption: Off
+FieldStateOption: Y
+---
+FieldType: Button
+FieldName: btnMe24
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnChild24
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnMe25
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnChild25
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: depRefVisa2
+FieldFlags: 49152
+FieldJustification: Left
+FieldStateOption: N
+FieldStateOption: Off
+FieldStateOption: Y
+---
+FieldType: Button
+FieldName: btnMe26
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnChild26
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnMe27
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnChild27
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnMe28
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnChild28
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnMe29
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnChild29
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnMe30
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnChild30
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnMe31
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnChild31
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnMe32
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnChild32
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: depChnName2
+FieldNameAlt: 姓名(中文)
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: depMaidSurname2
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: depEngSurname2
+FieldNameAlt: 姓(英文)
+FieldFlags: 29360128
+FieldJustification: Left
+FieldMaxLength: 33
+---
+FieldType: Text
+FieldName: depEngName2
+FieldNameAlt: 名(英文)
+FieldFlags: 29360128
+FieldJustification: Left
+FieldMaxLength: 33
+---
+FieldType: Text
+FieldName: depUsedName2
+FieldFlags: 12582912
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: depPreRefEntry2
+FieldFlags: 12582912
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: depPreRefVisa2
+FieldFlags: 12582912
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: sponsorNameChn2
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: sponsorNameEng2
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: appDate
+FieldNameAlt: 日期
+FieldFlags: 12582912
+FieldJustification: Center
+---
+FieldType: Button
+FieldName: btnPG44
+FieldNameAlt: 受養人簽署
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnPG46
+FieldNameAlt: 母
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnPG47
+FieldNameAlt: 合法監護人
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnPG49
+FieldNameAlt: *Delete where inappropriate
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnPG51
+FieldNameAlt: *Delete where inappropriate
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnPG52
+FieldNameAlt: *Delete where inappropriate
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnPG48
+FieldNameAlt: 姓名及簽署
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnPG50
+FieldNameAlt: *Delete where inappropriate
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: chgName
+FieldFlags: 49152
+FieldJustification: Left
+FieldStateOption: 是
+FieldStateOption: 否
+FieldStateOption: Off
+---
+FieldType: Button
+FieldName: btnMe1
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnChild1
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnMe2
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnChild2
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: usedName
+FieldNameAlt: 曾用的姓名
+FieldFlags: 12582912
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: refEntry
+FieldFlags: 49152
+FieldJustification: Left
+FieldStateOption: 是
+FieldStateOption: 否
+FieldStateOption: Off
+---
+FieldType: Button
+FieldName: btnMe3
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnChild3
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnMe4
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnChild4
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: preRefEntry
+FieldNameAlt: 有關的日期及詳細資料如下
+FieldFlags: 12582912
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: refVisa
+FieldFlags: 49152
+FieldJustification: Left
+FieldStateOption: 是
+FieldStateOption: 否
+FieldStateOption: Off
+---
+FieldType: Button
+FieldName: btnMe5
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnChild5
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnMe6
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnChild6
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: preRefVisa
+FieldNameAlt: 有關的日期及詳細資料如下
+FieldFlags: 12582912
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnMe7
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnChild7
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnMe8
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnChild8
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnMe9
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnChild9
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: declaration1
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: domPlaceChn
+FieldFlags: 12582912
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: domPlaceEng
+FieldFlags: 12582912
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: declaration2
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnMe10
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnChild10
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: appDate4
+FieldNameAlt: 日期
+FieldFlags: 12582912
+FieldJustification: Center
+---
+FieldType: Button
+FieldName: btnPG22
+FieldNameAlt: *Delete where inappropriate
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnPG23
+FieldNameAlt: *Delete where inappropriate
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnPG24
+FieldNameAlt: *Delete where inappropriate
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnPG25
+FieldNameAlt: *Delete where inappropriate
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnPG27
+FieldNameAlt: *Delete where inappropriate
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnPG29
+FieldNameAlt: *Delete where inappropriate
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnPG30
+FieldNameAlt: *Delete where inappropriate
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnPG26
+FieldNameAlt: *Delete where inappropriate
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnPG28
+FieldNameAlt: *Delete where inappropriate
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnPG31
+FieldNameAlt: *Delete where inappropriate
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnPG32
+FieldNameAlt: *Delete where inappropriate
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: declaration4
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: otherMarital
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnPG34
+FieldNameAlt: 父
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnPG43
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnPG42
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnPG45
+FieldNameAlt: 父
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnPG53
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnPG54
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnChild21
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: btnMe21
+FieldFlags: 65536
+FieldJustification: Leftarray(318) {
+  [0]=>
+  array(5) {
+    ["FieldType"]=>
+    string(4) "Text"
+    ["FieldName"]=>
+    string(7) "chnName"
+    ["FieldNameAlt"]=>
+    string(18) "姓名（中文）"
+    ["FieldFlags"]=>
+    string(8) "12587008"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [1]=>
+  array(5) {
+    ["FieldType"]=>
+    string(4) "Text"
+    ["FieldName"]=>
+    string(11) "maidSurname"
+    ["FieldNameAlt"]=>
+    string(27) "婚前姓氏（如適用）"
+    ["FieldFlags"]=>
+    string(8) "12587008"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [2]=>
+  array(6) {
+    ["FieldType"]=>
+    string(4) "Text"
+    ["FieldName"]=>
+    string(10) "engSurname"
+    ["FieldNameAlt"]=>
+    string(15) "姓（英文）"
+    ["FieldFlags"]=>
+    string(8) "29360128"
+    ["FieldJustification"]=>
+    string(4) "Left"
+    ["FieldMaxLength"]=>
+    string(2) "33"
+  }
+  [3]=>
+  array(6) {
+    ["FieldType"]=>
+    string(4) "Text"
+    ["FieldName"]=>
+    string(7) "engName"
+    ["FieldNameAlt"]=>
+    string(15) "名（英文）"
+    ["FieldFlags"]=>
+    string(8) "29360128"
+    ["FieldJustification"]=>
+    string(4) "Left"
+    ["FieldMaxLength"]=>
+    string(2) "33"
+  }
+  [4]=>
+  array(5) {
+    ["FieldType"]=>
+    string(4) "Text"
+    ["FieldName"]=>
+    string(5) "alias"
+    ["FieldNameAlt"]=>
+    string(18) "別名（如有）"
+    ["FieldFlags"]=>
+    string(8) "12587008"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [5]=>
+  array(5) {
+    ["FieldType"]=>
+    string(6) "Button"
+    ["FieldName"]=>
+    string(3) "sex"
+    ["FieldFlags"]=>
+    string(5) "49152"
+    ["FieldJustification"]=>
+    string(4) "Left"
+    ["FieldStateOption"]=>
+    array(3) {
+      [0]=>
+      string(3) "男"
+      [1]=>
+      string(3) "女"
+      [2]=>
+      string(3) "Off"
+    }
+  }
+  [6]=>
+  array(6) {
+    ["FieldType"]=>
+    string(4) "Text"
+    ["FieldName"]=>
+    string(6) "dobDay"
+    ["FieldNameAlt"]=>
+    string(9) "出生日"
+    ["FieldFlags"]=>
+    string(8) "29360128"
+    ["FieldJustification"]=>
+    string(4) "Left"
+    ["FieldMaxLength"]=>
+    string(1) "2"
+  }
+  [7]=>
+  array(6) {
+    ["FieldType"]=>
+    string(4) "Text"
+    ["FieldName"]=>
+    string(6) "dobMth"
+    ["FieldNameAlt"]=>
+    string(9) "出生月"
+    ["FieldFlags"]=>
+    string(8) "29360128"
+    ["FieldJustification"]=>
+    string(4) "Left"
+    ["FieldMaxLength"]=>
+    string(1) "2"
+  }
+  [8]=>
+  array(6) {
+    ["FieldType"]=>
+    string(4) "Text"
+    ["FieldName"]=>
+    string(5) "dobYr"
+    ["FieldNameAlt"]=>
+    string(9) "出生年"
+    ["FieldFlags"]=>
+    string(8) "29360128"
+    ["FieldJustification"]=>
+    string(4) "Left"
+    ["FieldMaxLength"]=>
+    string(1) "4"
+  }
+  [9]=>
+  array(5) {
+    ["FieldType"]=>
+    string(4) "Text"
+    ["FieldName"]=>
+    string(10) "birthPlace"
+    ["FieldNameAlt"]=>
+    string(12) "出生地點"
+    ["FieldFlags"]=>
+    string(8) "12587008"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [10]=>
+  array(5) {
+    ["FieldType"]=>
+    string(4) "Text"
+    ["FieldName"]=>
+    string(8) "national"
+    ["FieldNameAlt"]=>
+    string(6) "國藉"
+    ["FieldFlags"]=>
+    string(8) "12587008"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [11]=>
+  array(5) {
+    ["FieldType"]=>
+    string(6) "Button"
+    ["FieldName"]=>
+    string(11) "maritalStat"
+    ["FieldFlags"]=>
+    string(5) "49152"
+    ["FieldJustification"]=>
+    string(4) "Left"
+    ["FieldStateOption"]=>
+    array(7) {
+      [0]=>
+      string(6) "未婚"
+      [1]=>
+      string(6) "已婚"
+      [2]=>
+      string(6) "離婚"
+      [3]=>
+      string(6) "分居"
+      [4]=>
+      string(6) "喪偶"
+      [5]=>
+      string(6) "其他"
+      [6]=>
+      string(3) "Off"
+    }
+  }
+  [12]=>
+  array(6) {
+    ["FieldType"]=>
+    string(4) "Text"
+    ["FieldName"]=>
+    string(9) "hkidAlpha"
+    ["FieldNameAlt"]=>
+    string(29) "香港身份證號碼 欄位1"
+    ["FieldFlags"]=>
+    string(8) "29360128"
+    ["FieldJustification"]=>
+    string(5) "Right"
+    ["FieldMaxLength"]=>
+    string(1) "2"
+  }
+  [13]=>
+  array(6) {
+    ["FieldType"]=>
+    string(4) "Text"
+    ["FieldName"]=>
+    string(9) "hkidDigit"
+    ["FieldNameAlt"]=>
+    string(29) "香港身份證號碼 欄位2"
+    ["FieldFlags"]=>
+    string(8) "29360128"
+    ["FieldJustification"]=>
+    string(4) "Left"
+    ["FieldMaxLength"]=>
+    string(1) "6"
+  }
+  [14]=>
+  array(6) {
+    ["FieldType"]=>
+    string(4) "Text"
+    ["FieldName"]=>
+    string(8) "hkidChkD"
+    ["FieldNameAlt"]=>
+    string(29) "香港身份證號碼 欄位3"
+    ["FieldFlags"]=>
+    string(8) "29360128"
+    ["FieldJustification"]=>
+    string(4) "Left"
+    ["FieldMaxLength"]=>
+    string(1) "1"
+  }
+  [15]=>
+  array(5) {
+    ["FieldType"]=>
+    string(4) "Text"
+    ["FieldName"]=>
+    string(10) "mainlandID"
+    ["FieldNameAlt"]=>
+    string(34) "內地身份證號碼（ 如有）"
+    ["FieldFlags"]=>
+    string(8) "12587008"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [16]=>
+  array(5) {
+    ["FieldType"]=>
+    string(4) "Text"
+    ["FieldName"]=>
+    string(13) "travelDocType"
+    ["FieldNameAlt"]=>
+    string(18) "旅行證件類別"
+    ["FieldFlags"]=>
+    string(8) "12587008"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [17]=>
+  array(5) {
+    ["FieldType"]=>
+    string(4) "Text"
+    ["FieldName"]=>
+    string(11) "travelDocNo"
+    ["FieldFlags"]=>
+    string(8) "29360128"
+    ["FieldJustification"]=>
+    string(4) "Left"
+    ["FieldMaxLength"]=>
+    string(2) "15"
+  }
+  [18]=>
+  array(4) {
+    ["FieldType"]=>
+    string(4) "Text"
+    ["FieldName"]=>
+    string(10) "issuePlace"
+    ["FieldFlags"]=>
+    string(8) "12587008"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [19]=>
+  array(6) {
+    ["FieldType"]=>
+    string(4) "Text"
+    ["FieldName"]=>
+    string(6) "doiDay"
+    ["FieldNameAlt"]=>
+    string(9) "簽發日"
+    ["FieldFlags"]=>
+    string(8) "29360128"
+    ["FieldJustification"]=>
+    string(4) "Left"
+    ["FieldMaxLength"]=>
+    string(1) "2"
+  }
+  [20]=>
+  array(6) {
+    ["FieldType"]=>
+    string(4) "Text"
+    ["FieldName"]=>
+    string(6) "doiMth"
+    ["FieldNameAlt"]=>
+    string(9) "簽發月"
+    ["FieldFlags"]=>
+    string(8) "29360128"
+    ["FieldJustification"]=>
+    string(4) "Left"
+    ["FieldMaxLength"]=>
+    string(1) "2"
+  }
+  [21]=>
+  array(6) {
+    ["FieldType"]=>
+    string(4) "Text"
+    ["FieldName"]=>
+    string(5) "doiYr"
+    ["FieldNameAlt"]=>
+    string(9) "簽發年"
+    ["FieldFlags"]=>
+    string(8) "29360128"
+    ["FieldJustification"]=>
+    string(4) "Left"
+    ["FieldMaxLength"]=>
+    string(1) "4"
+  }
+  [22]=>
+  array(6) {
+    ["FieldType"]=>
+    string(4) "Text"
+    ["FieldName"]=>
+    string(6) "doeDay"
+    ["FieldNameAlt"]=>
+    string(9) "屆滿日"
+    ["FieldFlags"]=>
+    string(8) "29360128"
+    ["FieldJustification"]=>
+    string(4) "Left"
+    ["FieldMaxLength"]=>
+    string(1) "2"
+  }
+  [23]=>
+  array(6) {
+    ["FieldType"]=>
+    string(4) "Text"
+    ["FieldName"]=>
+    string(6) "doeMth"
+    ["FieldNameAlt"]=>
+    string(9) "屆滿月"
+    ["FieldFlags"]=>
+    string(8) "29360128"
+    ["FieldJustification"]=>
+    string(4) "Left"
+    ["FieldMaxLength"]=>
+    string(1) "2"
+  }
+  [24]=>
+  array(6) {
+    ["FieldType"]=>
+    string(4) "Text"
+    ["FieldName"]=>
+    string(5) "doeYr"
+    ["FieldNameAlt"]=>
+    string(9) "屆滿年"
+    ["FieldFlags"]=>
+    string(8) "29360128"
+    ["FieldJustification"]=>
+    string(4) "Left"
+    ["FieldMaxLength"]=>
+    string(1) "4"
+  }
+  [25]=>
+  array(6) {
+    ["FieldType"]=>
+    string(4) "Text"
+    ["FieldName"]=>
+    string(8) "appEmail"
+    ["FieldNameAlt"]=>
+    string(22) "電郵地址（如有)"
+    ["FieldFlags"]=>
+    string(8) "29360128"
+    ["FieldJustification"]=>
+    string(4) "Left"
+    ["FieldMaxLength"]=>
+    string(2) "36"
+  }
+  [26]=>
+  array(5) {
+    ["FieldType"]=>
+    string(4) "Text"
+    ["FieldName"]=>
+    string(6) "appTel"
+    ["FieldNameAlt"]=>
+    string(18) "聯絡電話號碼"
+    ["FieldFlags"]=>
+    string(8) "12582912"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [27]=>
+  array(5) {
+    ["FieldType"]=>
+    string(4) "Text"
+    ["FieldName"]=>
+    string(5) "faxNo"
+    ["FieldNameAlt"]=>
+    string(22) "傳真號碼（如有)"
+    ["FieldFlags"]=>
+    string(8) "12582912"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [28]=>
+  array(5) {
+    ["FieldType"]=>
+    string(4) "Text"
+    ["FieldName"]=>
+    string(10) "domCountry"
+    ["FieldNameAlt"]=>
+    string(27) "現時定居國家／地區"
+    ["FieldFlags"]=>
+    string(8) "12587008"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [29]=>
+  array(5) {
+    ["FieldType"]=>
+    string(6) "Button"
+    ["FieldName"]=>
+    string(9) "preReside"
+    ["FieldFlags"]=>
+    string(5) "49152"
+    ["FieldJustification"]=>
+    string(4) "Left"
+    ["FieldStateOption"]=>
+    array(3) {
+      [0]=>
+      string(3) "是"
+      [1]=>
+      string(3) "否"
+      [2]=>
+      string(3) "Off"
+    }
+  }
+  [30]=>
+  array(6) {
+    ["FieldType"]=>
+    string(4) "Text"
+    ["FieldName"]=>
+    string(7) "resYear"
+    ["FieldNameAlt"]=>
+    string(10) "居留 年"
+    ["FieldFlags"]=>
+    string(8) "29360128"
+    ["FieldJustification"]=>
+    string(4) "Left"
+    ["FieldMaxLength"]=>
+    string(1) "2"
+  }
+  [31]=>
+  array(6) {
+    ["FieldType"]=>
+    string(4) "Text"
+    ["FieldName"]=>
+    string(8) "resMonth"
+    ["FieldNameAlt"]=>
+    string(10) "居留 月"
+    ["FieldFlags"]=>
+    string(8) "29360128"
+    ["FieldJustification"]=>
+    string(4) "Left"
+    ["FieldMaxLength"]=>
+    string(1) "2"
+  }
+  [32]=>
+  array(5) {
+    ["FieldType"]=>
+    string(4) "Text"
+    ["FieldName"]=>
+    string(13) "appOccupation"
+    ["FieldNameAlt"]=>
+    string(6) "職業"
+    ["FieldFlags"]=>
+    string(8) "12587008"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [33]=>
+  array(5) {
+    ["FieldType"]=>
+    string(4) "Text"
+    ["FieldName"]=>
+    string(11) "curEmployer"
+    ["FieldNameAlt"]=>
+    string(36) "現時僱主的名稱（如適用）"
+    ["FieldFlags"]=>
+    string(8) "12587008"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [34]=>
+  array(5) {
+    ["FieldType"]=>
+    string(4) "Text"
+    ["FieldName"]=>
+    string(10) "curEmpAddr"
+    ["FieldNameAlt"]=>
+    string(36) "現時僱主的地址（如適用）"
+    ["FieldFlags"]=>
+    string(8) "12587008"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [35]=>
+  array(5) {
+    ["FieldType"]=>
+    string(6) "Button"
+    ["FieldName"]=>
+    string(7) "appStay"
+    ["FieldFlags"]=>
+    string(5) "49152"
+    ["FieldJustification"]=>
+    string(4) "Left"
+    ["FieldStateOption"]=>
+    array(3) {
+      [0]=>
+      string(3) "是"
+      [1]=>
+      string(3) "否"
+      [2]=>
+      string(3) "Off"
+    }
+  }
+  [36]=>
+  array(6) {
+    ["FieldType"]=>
+    string(4) "Text"
+    ["FieldName"]=>
+    string(6) "perDay"
+    ["FieldNameAlt"]=>
+    string(19) "獲准逗留至 日"
+    ["FieldFlags"]=>
+    string(8) "29360128"
+    ["FieldJustification"]=>
+    string(4) "Left"
+    ["FieldMaxLength"]=>
+    string(1) "2"
+  }
+  [37]=>
+  array(6) {
+    ["FieldType"]=>
+    string(4) "Text"
+    ["FieldName"]=>
+    string(6) "perMth"
+    ["FieldNameAlt"]=>
+    string(19) "獲准逗留至 月"
+    ["FieldFlags"]=>
+    string(8) "29360128"
+    ["FieldJustification"]=>
+    string(4) "Left"
+    ["FieldMaxLength"]=>
+    string(1) "2"
+  }
+  [38]=>
+  array(6) {
+    ["FieldType"]=>
+    string(4) "Text"
+    ["FieldName"]=>
+    string(5) "perYr"
+    ["FieldNameAlt"]=>
+    string(19) "獲准逗留至 年"
+    ["FieldFlags"]=>
+    string(8) "29360128"
+    ["FieldJustification"]=>
+    string(4) "Left"
+    ["FieldMaxLength"]=>
+    string(1) "4"
+  }
+  [39]=>
+  array(5) {
+    ["FieldType"]=>
+    string(6) "Button"
+    ["FieldName"]=>
+    string(6) "status"
+    ["FieldFlags"]=>
+    string(5) "49152"
+    ["FieldJustification"]=>
+    string(4) "Left"
+    ["FieldStateOption"]=>
+    array(5) {
+      [0]=>
+      string(6) "就業"
+      [1]=>
+      string(18) "居留／受養人"
+      [2]=>
+      string(6) "訪客"
+      [3]=>
+      string(6) "其他"
+      [4]=>
+      string(3) "Off"
+    }
+  }
+  [40]=>
+  array(5) {
+    ["FieldType"]=>
+    string(4) "Text"
+    ["FieldName"]=>
+    string(6) "others"
+    ["FieldNameAlt"]=>
+    string(6) "說明"
+    ["FieldFlags"]=>
+    string(8) "12587008"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [41]=>
+  array(5) {
+    ["FieldType"]=>
+    string(4) "Text"
+    ["FieldName"]=>
+    string(8) "appDate1"
+    ["FieldNameAlt"]=>
+    string(6) "日期"
+    ["FieldFlags"]=>
+    string(8) "12582912"
+    ["FieldJustification"]=>
+    string(6) "Center"
+  }
+  [42]=>
+  array(7) {
+    ["FieldType"]=>
+    string(4) "Text"
+    ["FieldName"]=>
+    string(11) "formVersion"
+    ["FieldFlags"]=>
+    string(8) "12582912"
+    ["FieldValue"]=>
+    string(7) "10/2008"
+    ["FieldValueDefault"]=>
+    string(7) "10/2008"
+    ["FieldJustification"]=>
+    string(4) "Left"
+    ["FieldMaxLength"]=>
+    string(1) "7"
+  }
+  [43]=>
+  array(4) {
+    ["FieldType"]=>
+    string(9) "Signature"
+    ["FieldName"]=>
+    string(12) "certifyField"
+    ["FieldFlags"]=>
+    string(1) "0"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [44]=>
+  array(6) {
+    ["FieldType"]=>
+    string(4) "Text"
+    ["FieldName"]=>
+    string(6) "formID"
+    ["FieldFlags"]=>
+    string(7) "8388608"
+    ["FieldValue"]=>
+    string(7) "ID1003A"
+    ["FieldValueDefault"]=>
+    string(7) "ID1003A"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [45]=>
+  array(4) {
+    ["FieldType"]=>
+    string(4) "Text"
+    ["FieldName"]=>
+    string(6) "errMsg"
+    ["FieldFlags"]=>
+    string(1) "0"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [46]=>
+  array(4) {
+    ["FieldType"]=>
+    string(4) "Text"
+    ["FieldName"]=>
+    string(8) "fldError"
+    ["FieldFlags"]=>
+    string(1) "0"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [47]=>
+  array(5) {
+    ["FieldType"]=>
+    string(6) "Button"
+    ["FieldName"]=>
+    string(6) "btnPG1"
+    ["FieldNameAlt"]=>
+    string(9) "申請人"
+    ["FieldFlags"]=>
+    string(5) "65536"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [48]=>
+  array(5) {
+    ["FieldType"]=>
+    string(6) "Button"
+    ["FieldName"]=>
+    string(6) "btnPG2"
+    ["FieldNameAlt"]=>
+    string(3) "父"
+    ["FieldFlags"]=>
+    string(5) "65536"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [49]=>
+  array(5) {
+    ["FieldType"]=>
+    string(6) "Button"
+    ["FieldName"]=>
+    string(6) "btnPG3"
+    ["FieldNameAlt"]=>
+    string(3) "母"
+    ["FieldFlags"]=>
+    string(5) "65536"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [50]=>
+  array(5) {
+    ["FieldType"]=>
+    string(6) "Button"
+    ["FieldName"]=>
+    string(6) "btnPG4"
+    ["FieldNameAlt"]=>
+    string(15) "合法監護人"
+    ["FieldFlags"]=>
+    string(5) "65536"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [51]=>
+  array(5) {
+    ["FieldType"]=>
+    string(6) "Button"
+    ["FieldName"]=>
+    string(6) "btnPG5"
+    ["FieldNameAlt"]=>
+    string(27) "*Delete where inappropriate"
+    ["FieldFlags"]=>
+    string(5) "65536"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [52]=>
+  array(5) {
+    ["FieldType"]=>
+    string(6) "Button"
+    ["FieldName"]=>
+    string(6) "btnPG6"
+    ["FieldNameAlt"]=>
+    string(27) "*Delete where inappropriate"
+    ["FieldFlags"]=>
+    string(5) "65536"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [53]=>
+  array(5) {
+    ["FieldType"]=>
+    string(6) "Button"
+    ["FieldName"]=>
+    string(6) "btnPG7"
+    ["FieldNameAlt"]=>
+    string(27) "*Delete where inappropriate"
+    ["FieldFlags"]=>
+    string(5) "65536"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [54]=>
+  array(5) {
+    ["FieldType"]=>
+    string(6) "Button"
+    ["FieldName"]=>
+    string(5) "Print"
+    ["FieldNameAlt"]=>
+    string(6) "列印"
+    ["FieldFlags"]=>
+    string(5) "65536"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [55]=>
+  array(5) {
+    ["FieldType"]=>
+    string(6) "Button"
+    ["FieldName"]=>
+    string(10) "Clear Form"
+    ["FieldNameAlt"]=>
+    string(12) "清除表格"
+    ["FieldFlags"]=>
+    string(5) "65536"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [56]=>
+  array(5) {
+    ["FieldType"]=>
+    string(6) "Button"
+    ["FieldName"]=>
+    string(7) "Button1"
+    ["FieldNameAlt"]=>
+    string(15) "可輸入資料"
+    ["FieldFlags"]=>
+    string(5) "65537"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [57]=>
+  array(5) {
+    ["FieldType"]=>
+    string(4) "Text"
+    ["FieldName"]=>
+    string(12) "presentAddr1"
+    ["FieldNameAlt"]=>
+    string(13) "現時住址1"
+    ["FieldFlags"]=>
+    string(8) "12587008"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [58]=>
+  array(5) {
+    ["FieldType"]=>
+    string(4) "Text"
+    ["FieldName"]=>
+    string(12) "presentAddr2"
+    ["FieldNameAlt"]=>
+    string(13) "現時住址2"
+    ["FieldFlags"]=>
+    string(8) "12587008"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [59]=>
+  array(5) {
+    ["FieldType"]=>
+    string(4) "Text"
+    ["FieldName"]=>
+    string(12) "presentAddr3"
+    ["FieldNameAlt"]=>
+    string(13) "現時住址3"
+    ["FieldFlags"]=>
+    string(8) "12587008"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [60]=>
+  array(5) {
+    ["FieldType"]=>
+    string(4) "Text"
+    ["FieldName"]=>
+    string(11) "permanAddr1"
+    ["FieldNameAlt"]=>
+    string(13) "固定住址1"
+    ["FieldFlags"]=>
+    string(8) "12587008"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [61]=>
+  array(5) {
+    ["FieldType"]=>
+    string(4) "Text"
+    ["FieldName"]=>
+    string(11) "permanAddr2"
+    ["FieldNameAlt"]=>
+    string(13) "固定住址2"
+    ["FieldFlags"]=>
+    string(8) "12587008"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [62]=>
+  array(5) {
+    ["FieldType"]=>
+    string(4) "Text"
+    ["FieldName"]=>
+    string(11) "permanAddr3"
+    ["FieldNameAlt"]=>
+    string(13) "固定住址3"
+    ["FieldFlags"]=>
+    string(8) "12587008"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [63]=>
+  array(5) {
+    ["FieldType"]=>
+    string(4) "Text"
+    ["FieldName"]=>
+    string(9) "entryDate"
+    ["FieldNameAlt"]=>
+    string(15) "擬抵港日期"
+    ["FieldFlags"]=>
+    string(8) "12587008"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [64]=>
+  array(5) {
+    ["FieldType"]=>
+    string(4) "Text"
+    ["FieldName"]=>
+    string(12) "stayDuration"
+    ["FieldNameAlt"]=>
+    string(21) "擬在港逗留時間"
+    ["FieldFlags"]=>
+    string(8) "12587008"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [65]=>
+  array(4) {
+    ["FieldType"]=>
+    string(4) "Text"
+    ["FieldName"]=>
+    string(11) "sponNumber1"
+    ["FieldFlags"]=>
+    string(8) "12587008"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [66]=>
+  array(6) {
+    ["FieldType"]=>
+    string(4) "Text"
+    ["FieldName"]=>
+    string(15) "sponEngSurname1"
+    ["FieldNameAlt"]=>
+    string(15) "姓（英文）"
+    ["FieldFlags"]=>
+    string(8) "29360128"
+    ["FieldJustification"]=>
+    string(4) "Left"
+    ["FieldMaxLength"]=>
+    string(2) "33"
+  }
+  [67]=>
+  array(6) {
+    ["FieldType"]=>
+    string(4) "Text"
+    ["FieldName"]=>
+    string(12) "sponEngName1"
+    ["FieldNameAlt"]=>
+    string(15) "名（英文）"
+    ["FieldFlags"]=>
+    string(8) "29360128"
+    ["FieldJustification"]=>
+    string(4) "Left"
+    ["FieldMaxLength"]=>
+    string(2) "33"
+  }
+  [68]=>
+  array(5) {
+    ["FieldType"]=>
+    string(4) "Text"
+    ["FieldName"]=>
+    string(12) "sponChnName1"
+    ["FieldNameAlt"]=>
+    string(33) "姓名（中文）（如適用）"
+    ["FieldFlags"]=>
+    string(8) "12587008"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [69]=>
+  array(5) {
+    ["FieldType"]=>
+    string(4) "Text"
+    ["FieldName"]=>
+    string(10) "sponAlias1"
+    ["FieldNameAlt"]=>
+    string(18) "別名（如有）"
+    ["FieldFlags"]=>
+    string(8) "12587008"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [70]=>
+  array(5) {
+    ["FieldType"]=>
+    string(6) "Button"
+    ["FieldName"]=>
+    string(8) "sponSex1"
+    ["FieldFlags"]=>
+    string(5) "49152"
+    ["FieldJustification"]=>
+    string(4) "Left"
+    ["FieldStateOption"]=>
+    array(3) {
+      [0]=>
+      string(3) "男"
+      [1]=>
+      string(3) "女"
+      [2]=>
+      string(3) "Off"
+    }
+  }
+  [71]=>
+  array(6) {
+    ["FieldType"]=>
+    string(4) "Text"
+    ["FieldName"]=>
+    string(11) "sponDobDay1"
+    ["FieldNameAlt"]=>
+    string(9) "出生日"
+    ["FieldFlags"]=>
+    string(8) "29360128"
+    ["FieldJustification"]=>
+    string(4) "Left"
+    ["FieldMaxLength"]=>
+    string(1) "2"
+  }
+  [72]=>
+  array(6) {
+    ["FieldType"]=>
+    string(4) "Text"
+    ["FieldName"]=>
+    string(11) "sponDobMth1"
+    ["FieldNameAlt"]=>
+    string(9) "出生月"
+    ["FieldFlags"]=>
+    string(8) "29360128"
+    ["FieldJustification"]=>
+    string(4) "Left"
+    ["FieldMaxLength"]=>
+    string(1) "2"
+  }
+  [73]=>
+  array(5) {
+    ["FieldType"]=>
+    string(4) "Text"
+    ["FieldName"]=>
+    string(10) "sponDobYr1"
+    ["FieldFlags"]=>
+    string(8) "29360128"
+    ["FieldJustification"]=>
+    string(4) "Left"
+    ["FieldMaxLength"]=>
+    string(1) "4"
+  }
+  [74]=>
+  array(5) {
+    ["FieldType"]=>
+    string(4) "Text"
+    ["FieldName"]=>
+    string(15) "sponBirthPlace1"
+    ["FieldNameAlt"]=>
+    string(12) "出生地點"
+    ["FieldFlags"]=>
+    string(8) "12587008"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [75]=>
+  array(5) {
+    ["FieldType"]=>
+    string(4) "Text"
+    ["FieldName"]=>
+    string(13) "sponNational1"
+    ["FieldNameAlt"]=>
+    string(6) "國籍"
+    ["FieldFlags"]=>
+    string(8) "12587008"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [76]=>
+  array(5) {
+    ["FieldType"]=>
+    string(4) "Text"
+    ["FieldName"]=>
+    string(8) "sponRel1"
+    ["FieldNameAlt"]=>
+    string(6) "關係"
+    ["FieldFlags"]=>
+    string(8) "12587008"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [77]=>
+  array(5) {
+    ["FieldType"]=>
+    string(4) "Text"
+    ["FieldName"]=>
+    string(16) "sponMaritalStat1"
+    ["FieldNameAlt"]=>
+    string(12) "婚姻狀況"
+    ["FieldFlags"]=>
+    string(8) "12587008"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [78]=>
+  array(5) {
+    ["FieldType"]=>
+    string(4) "Text"
+    ["FieldName"]=>
+    string(18) "sponTravelDocType1"
+    ["FieldNameAlt"]=>
+    string(18) "旅行證件類別"
+    ["FieldFlags"]=>
+    string(8) "12587008"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [79]=>
+  array(5) {
+    ["FieldType"]=>
+    string(4) "Text"
+    ["FieldName"]=>
+    string(16) "sponTravelDocNo1"
+    ["FieldNameAlt"]=>
+    string(18) "旅行證件號碼"
+    ["FieldFlags"]=>
+    string(8) "12587008"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [80]=>
+  array(5) {
+    ["FieldType"]=>
+    string(4) "Text"
+    ["FieldName"]=>
+    string(15) "sponMainlandID1"
+    ["FieldNameAlt"]=>
+    string(29) "內地身份證號碼(如有)"
+    ["FieldFlags"]=>
+    string(8) "12587008"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [81]=>
+  array(6) {
+    ["FieldType"]=>
+    string(4) "Text"
+    ["FieldName"]=>
+    string(11) "sponPerDay1"
+    ["FieldNameAlt"]=>
+    string(19) "獲准逗留至 日"
+    ["FieldFlags"]=>
+    string(8) "29360128"
+    ["FieldJustification"]=>
+    string(4) "Left"
+    ["FieldMaxLength"]=>
+    string(1) "2"
+  }
+  [82]=>
+  array(6) {
+    ["FieldType"]=>
+    string(4) "Text"
+    ["FieldName"]=>
+    string(11) "sponPerMth1"
+    ["FieldNameAlt"]=>
+    string(19) "獲准逗留至 月"
+    ["FieldFlags"]=>
+    string(8) "29360128"
+    ["FieldJustification"]=>
+    string(4) "Left"
+    ["FieldMaxLength"]=>
+    string(1) "2"
+  }
+  [83]=>
+  array(6) {
+    ["FieldType"]=>
+    string(4) "Text"
+    ["FieldName"]=>
+    string(10) "sponPerYr1"
+    ["FieldNameAlt"]=>
+    string(19) "獲准逗留至 年"
+    ["FieldFlags"]=>
+    string(8) "29360128"
+    ["FieldJustification"]=>
+    string(4) "Left"
+    ["FieldMaxLength"]=>
+    string(1) "4"
+  }
+  [84]=>
+  array(5) {
+    ["FieldType"]=>
+    string(6) "Button"
+    ["FieldName"]=>
+    string(11) "sponStatus1"
+    ["FieldFlags"]=>
+    string(5) "49152"
+    ["FieldJustification"]=>
+    string(4) "Left"
+    ["FieldStateOption"]=>
+    array(6) {
+      [0]=>
+      string(6) "學生"
+      [1]=>
+      string(6) "就業"
+      [2]=>
+      string(6) "居留"
+      [3]=>
+      string(6) "訪客"
+      [4]=>
+      string(6) "其他"
+      [5]=>
+      string(3) "Off"
+    }
+  }
+  [85]=>
+  array(5) {
+    ["FieldType"]=>
+    string(4) "Text"
+    ["FieldName"]=>
+    string(11) "sponOthers1"
+    ["FieldNameAlt"]=>
+    string(6) "說明"
+    ["FieldFlags"]=>
+    string(8) "12587008"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [86]=>
+  array(6) {
+    ["FieldType"]=>
+    string(4) "Text"
+    ["FieldName"]=>
+    string(14) "sponHkidAlpha1"
+    ["FieldNameAlt"]=>
+    string(29) "香港身份證號碼 欄位1"
+    ["FieldFlags"]=>
+    string(8) "29360128"
+    ["FieldJustification"]=>
+    string(5) "Right"
+    ["FieldMaxLength"]=>
+    string(1) "2"
+  }
+  [87]=>
+  array(6) {
+    ["FieldType"]=>
+    string(4) "Text"
+    ["FieldName"]=>
+    string(14) "sponHkidDigit1"
+    ["FieldNameAlt"]=>
+    string(29) "香港身份證號碼 欄位2"
+    ["FieldFlags"]=>
+    string(8) "29360128"
+    ["FieldJustification"]=>
+    string(4) "Left"
+    ["FieldMaxLength"]=>
+    string(1) "6"
+  }
+  [88]=>
+  array(5) {
+    ["FieldType"]=>
+    string(4) "Text"
+    ["FieldName"]=>
+    string(13) "sponHkidChkD1"
+    ["FieldFlags"]=>
+    string(8) "29360128"
+    ["FieldJustification"]=>
+    string(4) "Left"
+    ["FieldMaxLength"]=>
+    string(1) "1"
+  }
+  [89]=>
+  array(5) {
+    ["FieldType"]=>
+    string(4) "Text"
+    ["FieldName"]=>
+    string(12) "sponCountry1"
+    ["FieldNameAlt"]=>
+    string(27) "現時定居國家／地區"
+    ["FieldFlags"]=>
+    string(8) "12587008"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [90]=>
+  array(5) {
+    ["FieldType"]=>
+    string(6) "Button"
+    ["FieldName"]=>
+    string(14) "sponPerReside1"
+    ["FieldFlags"]=>
+    string(5) "49152"
+    ["FieldJustification"]=>
+    string(4) "Left"
+    ["FieldStateOption"]=>
+    array(3) {
+      [0]=>
+      string(3) "是"
+      [1]=>
+      string(3) "否"
+      [2]=>
+      string(3) "Off"
+    }
+  }
+  [91]=>
+  array(4) {
+    ["FieldType"]=>
+    string(4) "Text"
+    ["FieldName"]=>
+    string(11) "sponNumber2"
+    ["FieldFlags"]=>
+    string(8) "12587008"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [92]=>
+  array(6) {
+    ["FieldType"]=>
+    string(4) "Text"
+    ["FieldName"]=>
+    string(15) "sponEngSurname2"
+    ["FieldNameAlt"]=>
+    string(15) "姓（英文）"
+    ["FieldFlags"]=>
+    string(8) "29360128"
+    ["FieldJustification"]=>
+    string(4) "Left"
+    ["FieldMaxLength"]=>
+    string(2) "33"
+  }
+  [93]=>
+  array(6) {
+    ["FieldType"]=>
+    string(4) "Text"
+    ["FieldName"]=>
+    string(12) "sponEngName2"
+    ["FieldNameAlt"]=>
+    string(15) "名（英文）"
+    ["FieldFlags"]=>
+    string(8) "29360128"
+    ["FieldJustification"]=>
+    string(4) "Left"
+    ["FieldMaxLength"]=>
+    string(2) "33"
+  }
+  [94]=>
+  array(5) {
+    ["FieldType"]=>
+    string(4) "Text"
+    ["FieldName"]=>
+    string(12) "sponChnName2"
+    ["FieldNameAlt"]=>
+    string(33) "姓名（中文）（如適用）"
+    ["FieldFlags"]=>
+    string(8) "12587008"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [95]=>
+  array(5) {
+    ["FieldType"]=>
+    string(4) "Text"
+    ["FieldName"]=>
+    string(10) "sponAlias2"
+    ["FieldNameAlt"]=>
+    string(18) "別名（如有）"
+    ["FieldFlags"]=>
+    string(8) "12587008"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [96]=>
+  array(5) {
+    ["FieldType"]=>
+    string(6) "Button"
+    ["FieldName"]=>
+    string(8) "sponSex2"
+    ["FieldFlags"]=>
+    string(5) "49152"
+    ["FieldJustification"]=>
+    string(4) "Left"
+    ["FieldStateOption"]=>
+    array(3) {
+      [0]=>
+      string(3) "男"
+      [1]=>
+      string(3) "女"
+      [2]=>
+      string(3) "Off"
+    }
+  }
+  [97]=>
+  array(6) {
+    ["FieldType"]=>
+    string(4) "Text"
+    ["FieldName"]=>
+    string(11) "sponDobDay2"
+    ["FieldNameAlt"]=>
+    string(9) "出生日"
+    ["FieldFlags"]=>
+    string(8) "29360128"
+    ["FieldJustification"]=>
+    string(4) "Left"
+    ["FieldMaxLength"]=>
+    string(1) "2"
+  }
+  [98]=>
+  array(6) {
+    ["FieldType"]=>
+    string(4) "Text"
+    ["FieldName"]=>
+    string(11) "sponDobMth2"
+    ["FieldNameAlt"]=>
+    string(9) "出生月"
+    ["FieldFlags"]=>
+    string(8) "29360128"
+    ["FieldJustification"]=>
+    string(4) "Left"
+    ["FieldMaxLength"]=>
+    string(1) "2"
+  }
+  [99]=>
+  array(6) {
+    ["FieldType"]=>
+    string(4) "Text"
+    ["FieldName"]=>
+    string(10) "sponDobYr2"
+    ["FieldNameAlt"]=>
+    string(9) "出生年"
+    ["FieldFlags"]=>
+    string(8) "29360128"
+    ["FieldJustification"]=>
+    string(4) "Left"
+    ["FieldMaxLength"]=>
+    string(1) "4"
+  }
+  [100]=>
+  array(5) {
+    ["FieldType"]=>
+    string(4) "Text"
+    ["FieldName"]=>
+    string(15) "sponBirthPlace2"
+    ["FieldNameAlt"]=>
+    string(12) "出生地點"
+    ["FieldFlags"]=>
+    string(8) "12587008"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [101]=>
+  array(5) {
+    ["FieldType"]=>
+    string(4) "Text"
+    ["FieldName"]=>
+    string(13) "sponNational2"
+    ["FieldNameAlt"]=>
+    string(6) "國籍"
+    ["FieldFlags"]=>
+    string(8) "12587008"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [102]=>
+  array(5) {
+    ["FieldType"]=>
+    string(4) "Text"
+    ["FieldName"]=>
+    string(8) "sponRel2"
+    ["FieldNameAlt"]=>
+    string(6) "關係"
+    ["FieldFlags"]=>
+    string(8) "12587008"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [103]=>
+  array(5) {
+    ["FieldType"]=>
+    string(4) "Text"
+    ["FieldName"]=>
+    string(16) "sponMaritalStat2"
+    ["FieldNameAlt"]=>
+    string(12) "婚姻狀況"
+    ["FieldFlags"]=>
+    string(8) "12587008"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [104]=>
+  array(5) {
+    ["FieldType"]=>
+    string(4) "Text"
+    ["FieldName"]=>
+    string(18) "sponTravelDocType2"
+    ["FieldNameAlt"]=>
+    string(18) "旅行證件類別"
+    ["FieldFlags"]=>
+    string(8) "12587008"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [105]=>
+  array(5) {
+    ["FieldType"]=>
+    string(4) "Text"
+    ["FieldName"]=>
+    string(16) "sponTravelDocNo2"
+    ["FieldNameAlt"]=>
+    string(18) "旅行證件號碼"
+    ["FieldFlags"]=>
+    string(8) "12587008"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [106]=>
+  array(5) {
+    ["FieldType"]=>
+    string(4) "Text"
+    ["FieldName"]=>
+    string(15) "sponMainlandID2"
+    ["FieldNameAlt"]=>
+    string(29) "內地身份證號碼(如有)"
+    ["FieldFlags"]=>
+    string(8) "12587008"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [107]=>
+  array(6) {
+    ["FieldType"]=>
+    string(4) "Text"
+    ["FieldName"]=>
+    string(11) "sponPerDay2"
+    ["FieldNameAlt"]=>
+    string(19) "獲准逗留至 日"
+    ["FieldFlags"]=>
+    string(8) "29360128"
+    ["FieldJustification"]=>
+    string(4) "Left"
+    ["FieldMaxLength"]=>
+    string(1) "2"
+  }
+  [108]=>
+  array(6) {
+    ["FieldType"]=>
+    string(4) "Text"
+    ["FieldName"]=>
+    string(11) "sponPerMth2"
+    ["FieldNameAlt"]=>
+    string(19) "獲准逗留至 月"
+    ["FieldFlags"]=>
+    string(8) "29360128"
+    ["FieldJustification"]=>
+    string(4) "Left"
+    ["FieldMaxLength"]=>
+    string(1) "2"
+  }
+  [109]=>
+  array(6) {
+    ["FieldType"]=>
+    string(4) "Text"
+    ["FieldName"]=>
+    string(10) "sponPerYr2"
+    ["FieldNameAlt"]=>
+    string(19) "獲准逗留至 年"
+    ["FieldFlags"]=>
+    string(8) "29360128"
+    ["FieldJustification"]=>
+    string(4) "Left"
+    ["FieldMaxLength"]=>
+    string(1) "4"
+  }
+  [110]=>
+  array(5) {
+    ["FieldType"]=>
+    string(6) "Button"
+    ["FieldName"]=>
+    string(11) "sponStatus2"
+    ["FieldFlags"]=>
+    string(5) "49152"
+    ["FieldJustification"]=>
+    string(4) "Left"
+    ["FieldStateOption"]=>
+    array(6) {
+      [0]=>
+      string(6) "學生"
+      [1]=>
+      string(6) "就業"
+      [2]=>
+      string(6) "居留"
+      [3]=>
+      string(6) "訪客"
+      [4]=>
+      string(6) "其他"
+      [5]=>
+      string(3) "Off"
+    }
+  }
+  [111]=>
+  array(5) {
+    ["FieldType"]=>
+    string(4) "Text"
+    ["FieldName"]=>
+    string(11) "sponOthers2"
+    ["FieldNameAlt"]=>
+    string(6) "說明"
+    ["FieldFlags"]=>
+    string(8) "12587008"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [112]=>
+  array(6) {
+    ["FieldType"]=>
+    string(4) "Text"
+    ["FieldName"]=>
+    string(14) "sponHkidAlpha2"
+    ["FieldNameAlt"]=>
+    string(17) "身份證 欄位1"
+    ["FieldFlags"]=>
+    string(8) "29360128"
+    ["FieldJustification"]=>
+    string(5) "Right"
+    ["FieldMaxLength"]=>
+    string(1) "2"
+  }
+  [113]=>
+  array(6) {
+    ["FieldType"]=>
+    string(4) "Text"
+    ["FieldName"]=>
+    string(14) "sponHkidDigit2"
+    ["FieldNameAlt"]=>
+    string(17) "身份證 欄位2"
+    ["FieldFlags"]=>
+    string(8) "29360128"
+    ["FieldJustification"]=>
+    string(4) "Left"
+    ["FieldMaxLength"]=>
+    string(1) "6"
+  }
+  [114]=>
+  array(6) {
+    ["FieldType"]=>
+    string(4) "Text"
+    ["FieldName"]=>
+    string(13) "sponHkidChkD2"
+    ["FieldNameAlt"]=>
+    string(17) "身份證 欄位3"
+    ["FieldFlags"]=>
+    string(8) "29360128"
+    ["FieldJustification"]=>
+    string(4) "Left"
+    ["FieldMaxLength"]=>
+    string(1) "1"
+  }
+  [115]=>
+  array(5) {
+    ["FieldType"]=>
+    string(4) "Text"
+    ["FieldName"]=>
+    string(12) "sponCountry2"
+    ["FieldNameAlt"]=>
+    string(27) "現時定居國家／地區"
+    ["FieldFlags"]=>
+    string(8) "12587008"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [116]=>
+  array(5) {
+    ["FieldType"]=>
+    string(6) "Button"
+    ["FieldName"]=>
+    string(14) "sponPerReside2"
+    ["FieldFlags"]=>
+    string(5) "49152"
+    ["FieldJustification"]=>
+    string(4) "Left"
+    ["FieldStateOption"]=>
+    array(3) {
+      [0]=>
+      string(3) "是"
+      [1]=>
+      string(3) "否"
+      [2]=>
+      string(3) "Off"
+    }
+  }
+  [117]=>
+  array(5) {
+    ["FieldType"]=>
+    string(4) "Text"
+    ["FieldName"]=>
+    string(8) "appDate2"
+    ["FieldNameAlt"]=>
+    string(6) "日期"
+    ["FieldFlags"]=>
+    string(8) "12582912"
+    ["FieldJustification"]=>
+    string(6) "Center"
+  }
+  [118]=>
+  array(5) {
+    ["FieldType"]=>
+    string(6) "Button"
+    ["FieldName"]=>
+    string(6) "btnPG8"
+    ["FieldNameAlt"]=>
+    string(9) "申請人"
+    ["FieldFlags"]=>
+    string(5) "65536"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [119]=>
+  array(5) {
+    ["FieldType"]=>
+    string(6) "Button"
+    ["FieldName"]=>
+    string(6) "btnPG9"
+    ["FieldNameAlt"]=>
+    string(3) "父"
+    ["FieldFlags"]=>
+    string(5) "65536"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [120]=>
+  array(5) {
+    ["FieldType"]=>
+    string(6) "Button"
+    ["FieldName"]=>
+    string(7) "btnPG10"
+    ["FieldNameAlt"]=>
+    string(3) "母"
+    ["FieldFlags"]=>
+    string(5) "65536"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [121]=>
+  array(5) {
+    ["FieldType"]=>
+    string(6) "Button"
+    ["FieldName"]=>
+    string(7) "btnPG11"
+    ["FieldNameAlt"]=>
+    string(15) "合法監護人"
+    ["FieldFlags"]=>
+    string(5) "65536"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [122]=>
+  array(5) {
+    ["FieldType"]=>
+    string(6) "Button"
+    ["FieldName"]=>
+    string(7) "btnPG12"
+    ["FieldNameAlt"]=>
+    string(27) "*Delete where inappropriate"
+    ["FieldFlags"]=>
+    string(5) "65536"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [123]=>
+  array(5) {
+    ["FieldType"]=>
+    string(6) "Button"
+    ["FieldName"]=>
+    string(7) "btnPG13"
+    ["FieldNameAlt"]=>
+    string(27) "*Delete where inappropriate"
+    ["FieldFlags"]=>
+    string(5) "65536"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [124]=>
+  array(5) {
+    ["FieldType"]=>
+    string(6) "Button"
+    ["FieldName"]=>
+    string(7) "btnPG14"
+    ["FieldNameAlt"]=>
+    string(27) "*Delete where inappropriate"
+    ["FieldFlags"]=>
+    string(5) "65536"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [125]=>
+  array(5) {
+    ["FieldType"]=>
+    string(4) "Text"
+    ["FieldName"]=>
+    string(11) "schNameAddr"
+    ["FieldNameAlt"]=>
+    string(36) "在港就讀學校的名稱及地址"
+    ["FieldFlags"]=>
+    string(8) "12587008"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [126]=>
+  array(5) {
+    ["FieldType"]=>
+    string(4) "Text"
+    ["FieldName"]=>
+    string(11) "classAttend"
+    ["FieldNameAlt"]=>
+    string(39) "在港入讀的年級／修讀的課程"
+    ["FieldFlags"]=>
+    string(8) "12587008"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [127]=>
+  array(5) {
+    ["FieldType"]=>
+    string(4) "Text"
+    ["FieldName"]=>
+    string(8) "schName1"
+    ["FieldNameAlt"]=>
+    string(20) "曾就讀的學校 1"
+    ["FieldFlags"]=>
+    string(8) "12587008"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [128]=>
+  array(5) {
+    ["FieldType"]=>
+    string(4) "Text"
+    ["FieldName"]=>
+    string(10) "majorSubj1"
+    ["FieldNameAlt"]=>
+    string(14) "主修科目 1"
+    ["FieldFlags"]=>
+    string(8) "12587008"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [129]=>
+  array(5) {
+    ["FieldType"]=>
+    string(4) "Text"
+    ["FieldName"]=>
+    string(7) "degree1"
+    ["FieldNameAlt"]=>
+    string(28) "獲頒發的學位／資格1"
+    ["FieldFlags"]=>
+    string(8) "12587008"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [130]=>
+  array(5) {
+    ["FieldType"]=>
+    string(4) "Text"
+    ["FieldName"]=>
+    string(11) "fromPeriod1"
+    ["FieldNameAlt"]=>
+    string(25) "就讀由（月／年）1"
+    ["FieldFlags"]=>
+    string(8) "12587008"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [131]=>
+  array(5) {
+    ["FieldType"]=>
+    string(4) "Text"
+    ["FieldName"]=>
+    string(9) "toPeriod1"
+    ["FieldNameAlt"]=>
+    string(25) "就讀由（月／年）1"
+    ["FieldFlags"]=>
+    string(8) "12587008"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [132]=>
+  array(5) {
+    ["FieldType"]=>
+    string(4) "Text"
+    ["FieldName"]=>
+    string(8) "schName2"
+    ["FieldNameAlt"]=>
+    string(20) "曾就讀的學校 2"
+    ["FieldFlags"]=>
+    string(8) "12587008"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [133]=>
+  array(5) {
+    ["FieldType"]=>
+    string(4) "Text"
+    ["FieldName"]=>
+    string(10) "majorSubj2"
+    ["FieldNameAlt"]=>
+    string(14) "主修科目 2"
+    ["FieldFlags"]=>
+    string(8) "12587008"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [134]=>
+  array(5) {
+    ["FieldType"]=>
+    string(4) "Text"
+    ["FieldName"]=>
+    string(7) "degree2"
+    ["FieldNameAlt"]=>
+    string(28) "獲頒發的學位／資格2"
+    ["FieldFlags"]=>
+    string(8) "12587008"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [135]=>
+  array(5) {
+    ["FieldType"]=>
+    string(4) "Text"
+    ["FieldName"]=>
+    string(11) "fromPeriod2"
+    ["FieldNameAlt"]=>
+    string(25) "就讀由（月／年）2"
+    ["FieldFlags"]=>
+    string(8) "12587008"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [136]=>
+  array(5) {
+    ["FieldType"]=>
+    string(4) "Text"
+    ["FieldName"]=>
+    string(9) "toPeriod2"
+    ["FieldNameAlt"]=>
+    string(25) "就讀由（月／年）2"
+    ["FieldFlags"]=>
+    string(8) "12587008"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [137]=>
+  array(5) {
+    ["FieldType"]=>
+    string(4) "Text"
+    ["FieldName"]=>
+    string(8) "schName3"
+    ["FieldNameAlt"]=>
+    string(20) "曾就讀的學校 3"
+    ["FieldFlags"]=>
+    string(8) "12587008"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [138]=>
+  array(5) {
+    ["FieldType"]=>
+    string(4) "Text"
+    ["FieldName"]=>
+    string(10) "majorSubj3"
+    ["FieldNameAlt"]=>
+    string(14) "主修科目 3"
+    ["FieldFlags"]=>
+    string(8) "12587008"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [139]=>
+  array(5) {
+    ["FieldType"]=>
+    string(4) "Text"
+    ["FieldName"]=>
+    string(7) "degree3"
+    ["FieldNameAlt"]=>
+    string(28) "獲頒發的學位／資格3"
+    ["FieldFlags"]=>
+    string(8) "12587008"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [140]=>
+  array(5) {
+    ["FieldType"]=>
+    string(4) "Text"
+    ["FieldName"]=>
+    string(11) "fromPeriod3"
+    ["FieldNameAlt"]=>
+    string(25) "就讀由（月／年）3"
+    ["FieldFlags"]=>
+    string(8) "12587008"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [141]=>
+  array(5) {
+    ["FieldType"]=>
+    string(4) "Text"
+    ["FieldName"]=>
+    string(9) "toPeriod3"
+    ["FieldNameAlt"]=>
+    string(25) "就讀由（月／年）3"
+    ["FieldFlags"]=>
+    string(8) "12587008"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [142]=>
+  array(5) {
+    ["FieldType"]=>
+    string(4) "Text"
+    ["FieldName"]=>
+    string(8) "schName4"
+    ["FieldNameAlt"]=>
+    string(20) "曾就讀的學校 4"
+    ["FieldFlags"]=>
+    string(8) "12587008"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [143]=>
+  array(5) {
+    ["FieldType"]=>
+    string(4) "Text"
+    ["FieldName"]=>
+    string(10) "majorSubj4"
+    ["FieldNameAlt"]=>
+    string(14) "主修科目 4"
+    ["FieldFlags"]=>
+    string(8) "12587008"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [144]=>
+  array(5) {
+    ["FieldType"]=>
+    string(4) "Text"
+    ["FieldName"]=>
+    string(7) "degree4"
+    ["FieldNameAlt"]=>
+    string(28) "獲頒發的學位／資格4"
+    ["FieldFlags"]=>
+    string(8) "12587008"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [145]=>
+  array(5) {
+    ["FieldType"]=>
+    string(4) "Text"
+    ["FieldName"]=>
+    string(11) "fromPeriod4"
+    ["FieldNameAlt"]=>
+    string(25) "就讀由（月／年）4"
+    ["FieldFlags"]=>
+    string(8) "12587008"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [146]=>
+  array(5) {
+    ["FieldType"]=>
+    string(4) "Text"
+    ["FieldName"]=>
+    string(9) "toPeriod4"
+    ["FieldNameAlt"]=>
+    string(25) "就讀由（月／年）4"
+    ["FieldFlags"]=>
+    string(8) "12587008"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [147]=>
+  array(5) {
+    ["FieldType"]=>
+    string(4) "Text"
+    ["FieldName"]=>
+    string(8) "schName5"
+    ["FieldNameAlt"]=>
+    string(20) "曾就讀的學校 5"
+    ["FieldFlags"]=>
+    string(8) "12587008"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [148]=>
+  array(5) {
+    ["FieldType"]=>
+    string(4) "Text"
+    ["FieldName"]=>
+    string(10) "majorSubj5"
+    ["FieldNameAlt"]=>
+    string(14) "主修科目 5"
+    ["FieldFlags"]=>
+    string(8) "12587008"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [149]=>
+  array(5) {
+    ["FieldType"]=>
+    string(4) "Text"
+    ["FieldName"]=>
+    string(7) "degree5"
+    ["FieldNameAlt"]=>
+    string(28) "獲頒發的學位／資格5"
+    ["FieldFlags"]=>
+    string(8) "12587008"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [150]=>
+  array(5) {
+    ["FieldType"]=>
+    string(4) "Text"
+    ["FieldName"]=>
+    string(11) "fromPeriod5"
+    ["FieldNameAlt"]=>
+    string(25) "就讀由（月／年）5"
+    ["FieldFlags"]=>
+    string(8) "12587008"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [151]=>
+  array(5) {
+    ["FieldType"]=>
+    string(4) "Text"
+    ["FieldName"]=>
+    string(9) "toPeriod5"
+    ["FieldNameAlt"]=>
+    string(25) "就讀由（月／年）5"
+    ["FieldFlags"]=>
+    string(8) "12587008"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [152]=>
+  array(5) {
+    ["FieldType"]=>
+    string(4) "Text"
+    ["FieldName"]=>
+    string(10) "schFeeCost"
+    ["FieldNameAlt"]=>
+    string(6) "學費"
+    ["FieldFlags"]=>
+    string(8) "12582912"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [153]=>
+  array(5) {
+    ["FieldType"]=>
+    string(4) "Text"
+    ["FieldName"]=>
+    string(10) "schFeeDesc"
+    ["FieldNameAlt"]=>
+    string(6) "學費"
+    ["FieldFlags"]=>
+    string(8) "12587008"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [154]=>
+  array(5) {
+    ["FieldType"]=>
+    string(6) "Button"
+    ["FieldName"]=>
+    string(13) "accommodation"
+    ["FieldFlags"]=>
+    string(5) "49152"
+    ["FieldJustification"]=>
+    string(4) "Left"
+    ["FieldStateOption"]=>
+    array(4) {
+      [0]=>
+      string(6) "宿舍"
+      [1]=>
+      string(12) "租住樓宇"
+      [2]=>
+      string(15) "與親人居住"
+      [3]=>
+      string(3) "Off"
+    }
+  }
+  [155]=>
+  array(5) {
+    ["FieldType"]=>
+    string(4) "Text"
+    ["FieldName"]=>
+    string(9) "accomCost"
+    ["FieldNameAlt"]=>
+    string(9) "住宿費"
+    ["FieldFlags"]=>
+    string(8) "12582912"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [156]=>
+  array(5) {
+    ["FieldType"]=>
+    string(4) "Text"
+    ["FieldName"]=>
+    string(9) "accomDesc"
+    ["FieldNameAlt"]=>
+    string(6) "住宿"
+    ["FieldFlags"]=>
+    string(8) "12587008"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [157]=>
+  array(5) {
+    ["FieldType"]=>
+    string(4) "Text"
+    ["FieldName"]=>
+    string(13) "transportCost"
+    ["FieldNameAlt"]=>
+    string(21) "交通費及膳食費"
+    ["FieldFlags"]=>
+    string(8) "12582912"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [158]=>
+  array(5) {
+    ["FieldType"]=>
+    string(4) "Text"
+    ["FieldName"]=>
+    string(13) "transportDesc"
+    ["FieldNameAlt"]=>
+    string(28) "交通費及膳食費 簡述"
+    ["FieldFlags"]=>
+    string(8) "12587008"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [159]=>
+  array(5) {
+    ["FieldType"]=>
+    string(4) "Text"
+    ["FieldName"]=>
+    string(10) "othersCost"
+    ["FieldNameAlt"]=>
+    string(9) "其他費"
+    ["FieldFlags"]=>
+    string(8) "12582912"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [160]=>
+  array(5) {
+    ["FieldType"]=>
+    string(4) "Text"
+    ["FieldName"]=>
+    string(10) "othersDesc"
+    ["FieldNameAlt"]=>
+    string(13) "其他 簡述"
+    ["FieldFlags"]=>
+    string(8) "12587008"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [161]=>
+  array(5) {
+    ["FieldType"]=>
+    string(4) "Text"
+    ["FieldName"]=>
+    string(9) "totalCost"
+    ["FieldNameAlt"]=>
+    string(6) "總計"
+    ["FieldFlags"]=>
+    string(8) "12582912"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [162]=>
+  array(5) {
+    ["FieldType"]=>
+    string(4) "Text"
+    ["FieldName"]=>
+    string(9) "totalDesc"
+    ["FieldNameAlt"]=>
+    string(13) "總計 簡述"
+    ["FieldFlags"]=>
+    string(8) "12587008"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [163]=>
+  array(5) {
+    ["FieldType"]=>
+    string(4) "Text"
+    ["FieldName"]=>
+    string(11) "depositCost"
+    ["FieldNameAlt"]=>
+    string(12) "存款金額"
+    ["FieldFlags"]=>
+    string(8) "12582912"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [164]=>
+  array(5) {
+    ["FieldType"]=>
+    string(4) "Text"
+    ["FieldName"]=>
+    string(11) "depositDesc"
+    ["FieldNameAlt"]=>
+    string(12) "存款簡述"
+    ["FieldFlags"]=>
+    string(8) "12587008"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [165]=>
+  array(5) {
+    ["FieldType"]=>
+    string(4) "Text"
+    ["FieldName"]=>
+    string(10) "incomeCost"
+    ["FieldNameAlt"]=>
+    string(12) "入息金額"
+    ["FieldFlags"]=>
+    string(8) "12582912"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [166]=>
+  array(5) {
+    ["FieldType"]=>
+    string(4) "Text"
+    ["FieldName"]=>
+    string(10) "incomeDesc"
+    ["FieldNameAlt"]=>
+    string(12) "入息簡述"
+    ["FieldFlags"]=>
+    string(8) "12587008"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [167]=>
+  array(5) {
+    ["FieldType"]=>
+    string(4) "Text"
+    ["FieldName"]=>
+    string(13) "othersFinCost"
+    ["FieldNameAlt"]=>
+    string(12) "其他金額"
+    ["FieldFlags"]=>
+    string(8) "12582912"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [168]=>
+  array(5) {
+    ["FieldType"]=>
+    string(4) "Text"
+    ["FieldName"]=>
+    string(13) "othersFinDesc"
+    ["FieldNameAlt"]=>
+    string(13) "其他 簡述"
+    ["FieldFlags"]=>
+    string(8) "12587008"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [169]=>
+  array(5) {
+    ["FieldType"]=>
+    string(6) "Button"
+    ["FieldName"]=>
+    string(14) "shortTermStudy"
+    ["FieldFlags"]=>
+    string(5) "49152"
+    ["FieldJustification"]=>
+    string(4) "Left"
+    ["FieldStateOption"]=>
+    array(3) {
+      [0]=>
+      string(3) "是"
+      [1]=>
+      string(3) "否"
+      [2]=>
+      string(3) "Off"
+    }
+  }
+  [170]=>
+  array(5) {
+    ["FieldType"]=>
+    string(4) "Text"
+    ["FieldName"]=>
+    string(13) "shortTermInfo"
+    ["FieldNameAlt"]=>
+    string(65) "(請提供該短期課程的名稱、修讀學校及修讀日期)"
+    ["FieldFlags"]=>
+    string(8) "12587008"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [171]=>
+  array(5) {
+    ["FieldType"]=>
+    string(4) "Text"
+    ["FieldName"]=>
+    string(8) "appDate3"
+    ["FieldNameAlt"]=>
+    string(6) "日期"
+    ["FieldFlags"]=>
+    string(8) "12582912"
+    ["FieldJustification"]=>
+    string(6) "Center"
+  }
+  [172]=>
+  array(5) {
+    ["FieldType"]=>
+    string(6) "Button"
+    ["FieldName"]=>
+    string(7) "btnPG15"
+    ["FieldNameAlt"]=>
+    string(9) "申請人"
+    ["FieldFlags"]=>
+    string(5) "65536"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [173]=>
+  array(5) {
+    ["FieldType"]=>
+    string(6) "Button"
+    ["FieldName"]=>
+    string(7) "btnPG16"
+    ["FieldNameAlt"]=>
+    string(3) "父"
+    ["FieldFlags"]=>
+    string(5) "65536"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [174]=>
+  array(5) {
+    ["FieldType"]=>
+    string(6) "Button"
+    ["FieldName"]=>
+    string(7) "btnPG17"
+    ["FieldNameAlt"]=>
+    string(3) "母"
+    ["FieldFlags"]=>
+    string(5) "65536"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [175]=>
+  array(5) {
+    ["FieldType"]=>
+    string(6) "Button"
+    ["FieldName"]=>
+    string(7) "btnPG18"
+    ["FieldNameAlt"]=>
+    string(15) "合法監護人"
+    ["FieldFlags"]=>
+    string(5) "65536"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [176]=>
+  array(5) {
+    ["FieldType"]=>
+    string(6) "Button"
+    ["FieldName"]=>
+    string(7) "btnPG19"
+    ["FieldNameAlt"]=>
+    string(27) "*Delete where inappropriate"
+    ["FieldFlags"]=>
+    string(5) "65536"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [177]=>
+  array(5) {
+    ["FieldType"]=>
+    string(6) "Button"
+    ["FieldName"]=>
+    string(7) "btnPG20"
+    ["FieldNameAlt"]=>
+    string(27) "*Delete where inappropriate"
+    ["FieldFlags"]=>
+    string(5) "65536"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [178]=>
+  array(5) {
+    ["FieldType"]=>
+    string(6) "Button"
+    ["FieldName"]=>
+    string(7) "btnPG21"
+    ["FieldNameAlt"]=>
+    string(27) "*Delete where inappropriate"
+    ["FieldFlags"]=>
+    string(5) "65536"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [179]=>
+  array(4) {
+    ["FieldType"]=>
+    string(4) "Text"
+    ["FieldName"]=>
+    string(6) "depNo1"
+    ["FieldFlags"]=>
+    string(8) "12587008"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [180]=>
+  array(5) {
+    ["FieldType"]=>
+    string(4) "Text"
+    ["FieldName"]=>
+    string(11) "depChnName1"
+    ["FieldNameAlt"]=>
+    string(18) "姓名（中文）"
+    ["FieldFlags"]=>
+    string(8) "12587008"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [181]=>
+  array(5) {
+    ["FieldType"]=>
+    string(4) "Text"
+    ["FieldName"]=>
+    string(15) "depMaidSurname1"
+    ["FieldNameAlt"]=>
+    string(12) "婚前姓氏"
+    ["FieldFlags"]=>
+    string(8) "12587008"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [182]=>
+  array(6) {
+    ["FieldType"]=>
+    string(4) "Text"
+    ["FieldName"]=>
+    string(14) "depEngSurname1"
+    ["FieldNameAlt"]=>
+    string(13) "姓（英文)"
+    ["FieldFlags"]=>
+    string(8) "29360128"
+    ["FieldJustification"]=>
+    string(4) "Left"
+    ["FieldMaxLength"]=>
+    string(2) "33"
+  }
+  [183]=>
+  array(6) {
+    ["FieldType"]=>
+    string(4) "Text"
+    ["FieldName"]=>
+    string(11) "depEngName1"
+    ["FieldNameAlt"]=>
+    string(15) "名（英文）"
+    ["FieldFlags"]=>
+    string(8) "29360128"
+    ["FieldJustification"]=>
+    string(4) "Left"
+    ["FieldMaxLength"]=>
+    string(2) "33"
+  }
+  [184]=>
+  array(4) {
+    ["FieldType"]=>
+    string(6) "Button"
+    ["FieldName"]=>
+    string(7) "btnMe11"
+    ["FieldFlags"]=>
+    string(5) "65536"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [185]=>
+  array(4) {
+    ["FieldType"]=>
+    string(6) "Button"
+    ["FieldName"]=>
+    string(10) "btnChild11"
+    ["FieldFlags"]=>
+    string(5) "65536"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [186]=>
+  array(4) {
+    ["FieldType"]=>
+    string(6) "Button"
+    ["FieldName"]=>
+    string(7) "btnMe12"
+    ["FieldFlags"]=>
+    string(5) "65536"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [187]=>
+  array(4) {
+    ["FieldType"]=>
+    string(6) "Button"
+    ["FieldName"]=>
+    string(10) "btnChild12"
+    ["FieldFlags"]=>
+    string(5) "65536"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [188]=>
+  array(4) {
+    ["FieldType"]=>
+    string(4) "Text"
+    ["FieldName"]=>
+    string(12) "depUsedName1"
+    ["FieldFlags"]=>
+    string(8) "12582912"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [189]=>
+  array(5) {
+    ["FieldType"]=>
+    string(6) "Button"
+    ["FieldName"]=>
+    string(12) "depRefEntry1"
+    ["FieldFlags"]=>
+    string(5) "49152"
+    ["FieldJustification"]=>
+    string(4) "Left"
+    ["FieldStateOption"]=>
+    array(3) {
+      [0]=>
+      string(1) "N"
+      [1]=>
+      string(3) "Off"
+      [2]=>
+      string(1) "Y"
+    }
+  }
+  [190]=>
+  array(4) {
+    ["FieldType"]=>
+    string(6) "Button"
+    ["FieldName"]=>
+    string(7) "btnMe13"
+    ["FieldFlags"]=>
+    string(5) "65536"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [191]=>
+  array(4) {
+    ["FieldType"]=>
+    string(6) "Button"
+    ["FieldName"]=>
+    string(10) "btnChild13"
+    ["FieldFlags"]=>
+    string(5) "65536"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [192]=>
+  array(4) {
+    ["FieldType"]=>
+    string(6) "Button"
+    ["FieldName"]=>
+    string(7) "btnMe14"
+    ["FieldFlags"]=>
+    string(5) "65536"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [193]=>
+  array(4) {
+    ["FieldType"]=>
+    string(6) "Button"
+    ["FieldName"]=>
+    string(10) "btnChild14"
+    ["FieldFlags"]=>
+    string(5) "65536"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [194]=>
+  array(5) {
+    ["FieldType"]=>
+    string(4) "Text"
+    ["FieldName"]=>
+    string(15) "depPreRefEntry1"
+    ["FieldNameAlt"]=>
+    string(27) "有關日期及詳細資料"
+    ["FieldFlags"]=>
+    string(8) "12582912"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [195]=>
+  array(5) {
+    ["FieldType"]=>
+    string(6) "Button"
+    ["FieldName"]=>
+    string(11) "depRefVisa1"
+    ["FieldFlags"]=>
+    string(5) "49152"
+    ["FieldJustification"]=>
+    string(4) "Left"
+    ["FieldStateOption"]=>
+    array(3) {
+      [0]=>
+      string(1) "N"
+      [1]=>
+      string(3) "Off"
+      [2]=>
+      string(1) "Y"
+    }
+  }
+  [196]=>
+  array(4) {
+    ["FieldType"]=>
+    string(6) "Button"
+    ["FieldName"]=>
+    string(7) "btnMe15"
+    ["FieldFlags"]=>
+    string(5) "65536"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [197]=>
+  array(4) {
+    ["FieldType"]=>
+    string(6) "Button"
+    ["FieldName"]=>
+    string(10) "btnChild15"
+    ["FieldFlags"]=>
+    string(5) "65536"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [198]=>
+  array(4) {
+    ["FieldType"]=>
+    string(6) "Button"
+    ["FieldName"]=>
+    string(10) "btnChild16"
+    ["FieldFlags"]=>
+    string(5) "65536"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [199]=>
+  array(5) {
+    ["FieldType"]=>
+    string(4) "Text"
+    ["FieldName"]=>
+    string(14) "depPreRefVisa1"
+    ["FieldNameAlt"]=>
+    string(27) "有關日期及詳細資料"
+    ["FieldFlags"]=>
+    string(8) "12582912"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [200]=>
+  array(5) {
+    ["FieldType"]=>
+    string(4) "Text"
+    ["FieldName"]=>
+    string(15) "sponsorNameChn1"
+    ["FieldNameAlt"]=>
+    string(15) "保證人姓名"
+    ["FieldFlags"]=>
+    string(8) "12587008"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [201]=>
+  array(4) {
+    ["FieldType"]=>
+    string(6) "Button"
+    ["FieldName"]=>
+    string(7) "btnMe16"
+    ["FieldFlags"]=>
+    string(5) "65536"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [202]=>
+  array(4) {
+    ["FieldType"]=>
+    string(4) "Text"
+    ["FieldName"]=>
+    string(15) "sponsorNameEng1"
+    ["FieldFlags"]=>
+    string(8) "12587008"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [203]=>
+  array(4) {
+    ["FieldType"]=>
+    string(6) "Button"
+    ["FieldName"]=>
+    string(7) "btnMe17"
+    ["FieldFlags"]=>
+    string(5) "65536"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [204]=>
+  array(4) {
+    ["FieldType"]=>
+    string(6) "Button"
+    ["FieldName"]=>
+    string(10) "btnChild17"
+    ["FieldFlags"]=>
+    string(5) "65536"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [205]=>
+  array(4) {
+    ["FieldType"]=>
+    string(6) "Button"
+    ["FieldName"]=>
+    string(7) "btnMe18"
+    ["FieldFlags"]=>
+    string(5) "65536"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [206]=>
+  array(4) {
+    ["FieldType"]=>
+    string(6) "Button"
+    ["FieldName"]=>
+    string(10) "btnChild18"
+    ["FieldFlags"]=>
+    string(5) "65536"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [207]=>
+  array(4) {
+    ["FieldType"]=>
+    string(6) "Button"
+    ["FieldName"]=>
+    string(7) "btnMe19"
+    ["FieldFlags"]=>
+    string(5) "65536"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [208]=>
+  array(4) {
+    ["FieldType"]=>
+    string(6) "Button"
+    ["FieldName"]=>
+    string(10) "btnChild19"
+    ["FieldFlags"]=>
+    string(5) "65536"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [209]=>
+  array(4) {
+    ["FieldType"]=>
+    string(6) "Button"
+    ["FieldName"]=>
+    string(12) "declaration3"
+    ["FieldFlags"]=>
+    string(5) "65536"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [210]=>
+  array(4) {
+    ["FieldType"]=>
+    string(6) "Button"
+    ["FieldName"]=>
+    string(7) "btnMe20"
+    ["FieldFlags"]=>
+    string(5) "65536"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [211]=>
+  array(4) {
+    ["FieldType"]=>
+    string(6) "Button"
+    ["FieldName"]=>
+    string(10) "btnChild20"
+    ["FieldFlags"]=>
+    string(5) "65536"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [212]=>
+  array(5) {
+    ["FieldType"]=>
+    string(4) "Text"
+    ["FieldName"]=>
+    string(8) "appDate5"
+    ["FieldNameAlt"]=>
+    string(6) "日期"
+    ["FieldFlags"]=>
+    string(8) "12582912"
+    ["FieldJustification"]=>
+    string(6) "Center"
+  }
+  [213]=>
+  array(5) {
+    ["FieldType"]=>
+    string(6) "Button"
+    ["FieldName"]=>
+    string(7) "btnPG33"
+    ["FieldNameAlt"]=>
+    string(15) "受養人簽署"
+    ["FieldFlags"]=>
+    string(5) "65536"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [214]=>
+  array(5) {
+    ["FieldType"]=>
+    string(6) "Button"
+    ["FieldName"]=>
+    string(7) "btnPG35"
+    ["FieldNameAlt"]=>
+    string(3) "母"
+    ["FieldFlags"]=>
+    string(5) "65536"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [215]=>
+  array(5) {
+    ["FieldType"]=>
+    string(6) "Button"
+    ["FieldName"]=>
+    string(7) "btnPG36"
+    ["FieldNameAlt"]=>
+    string(15) "合法監護人"
+    ["FieldFlags"]=>
+    string(5) "65536"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [216]=>
+  array(5) {
+    ["FieldType"]=>
+    string(6) "Button"
+    ["FieldName"]=>
+    string(7) "btnPG38"
+    ["FieldNameAlt"]=>
+    string(27) "*Delete where inappropriate"
+    ["FieldFlags"]=>
+    string(5) "65536"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [217]=>
+  array(5) {
+    ["FieldType"]=>
+    string(6) "Button"
+    ["FieldName"]=>
+    string(7) "btnPG40"
+    ["FieldNameAlt"]=>
+    string(27) "*Delete where inappropriate"
+    ["FieldFlags"]=>
+    string(5) "65536"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [218]=>
+  array(5) {
+    ["FieldType"]=>
+    string(6) "Button"
+    ["FieldName"]=>
+    string(7) "btnPG41"
+    ["FieldNameAlt"]=>
+    string(27) "*Delete where inappropriate"
+    ["FieldFlags"]=>
+    string(5) "65536"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [219]=>
+  array(5) {
+    ["FieldType"]=>
+    string(6) "Button"
+    ["FieldName"]=>
+    string(7) "btnPG37"
+    ["FieldNameAlt"]=>
+    string(15) "姓名及簽署"
+    ["FieldFlags"]=>
+    string(5) "65536"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [220]=>
+  array(5) {
+    ["FieldType"]=>
+    string(6) "Button"
+    ["FieldName"]=>
+    string(7) "btnPG39"
+    ["FieldNameAlt"]=>
+    string(27) "*Delete where inappropriate"
+    ["FieldFlags"]=>
+    string(5) "65536"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [221]=>
+  array(5) {
+    ["FieldType"]=>
+    string(6) "Button"
+    ["FieldName"]=>
+    string(11) "depChgName1"
+    ["FieldFlags"]=>
+    string(5) "49152"
+    ["FieldJustification"]=>
+    string(4) "Left"
+    ["FieldStateOption"]=>
+    array(3) {
+      [0]=>
+      string(1) "Y"
+      [1]=>
+      string(3) "Off"
+      [2]=>
+      string(1) "N"
+    }
+  }
+  [222]=>
+  array(4) {
+    ["FieldType"]=>
+    string(4) "Text"
+    ["FieldName"]=>
+    string(6) "depNo2"
+    ["FieldFlags"]=>
+    string(8) "12587008"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [223]=>
+  array(5) {
+    ["FieldType"]=>
+    string(6) "Button"
+    ["FieldName"]=>
+    string(11) "depChgName2"
+    ["FieldFlags"]=>
+    string(5) "49152"
+    ["FieldJustification"]=>
+    string(4) "Left"
+    ["FieldStateOption"]=>
+    array(2) {
+      [0]=>
+      string(1) "Y"
+      [1]=>
+      string(3) "Off"
+    }
+  }
+  [224]=>
+  array(4) {
+    ["FieldType"]=>
+    string(6) "Button"
+    ["FieldName"]=>
+    string(7) "btnMe22"
+    ["FieldFlags"]=>
+    string(5) "65536"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [225]=>
+  array(4) {
+    ["FieldType"]=>
+    string(6) "Button"
+    ["FieldName"]=>
+    string(10) "btnChild22"
+    ["FieldFlags"]=>
+    string(5) "65536"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [226]=>
+  array(4) {
+    ["FieldType"]=>
+    string(6) "Button"
+    ["FieldName"]=>
+    string(7) "btnMe23"
+    ["FieldFlags"]=>
+    string(5) "65536"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [227]=>
+  array(4) {
+    ["FieldType"]=>
+    string(6) "Button"
+    ["FieldName"]=>
+    string(10) "btnChild23"
+    ["FieldFlags"]=>
+    string(5) "65536"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [228]=>
+  array(5) {
+    ["FieldType"]=>
+    string(6) "Button"
+    ["FieldName"]=>
+    string(12) "depRefEntry2"
+    ["FieldFlags"]=>
+    string(5) "49152"
+    ["FieldJustification"]=>
+    string(4) "Left"
+    ["FieldStateOption"]=>
+    array(3) {
+      [0]=>
+      string(1) "N"
+      [1]=>
+      string(3) "Off"
+      [2]=>
+      string(1) "Y"
+    }
+  }
+  [229]=>
+  array(4) {
+    ["FieldType"]=>
+    string(6) "Button"
+    ["FieldName"]=>
+    string(7) "btnMe24"
+    ["FieldFlags"]=>
+    string(5) "65536"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [230]=>
+  array(4) {
+    ["FieldType"]=>
+    string(6) "Button"
+    ["FieldName"]=>
+    string(10) "btnChild24"
+    ["FieldFlags"]=>
+    string(5) "65536"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [231]=>
+  array(4) {
+    ["FieldType"]=>
+    string(6) "Button"
+    ["FieldName"]=>
+    string(7) "btnMe25"
+    ["FieldFlags"]=>
+    string(5) "65536"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [232]=>
+  array(4) {
+    ["FieldType"]=>
+    string(6) "Button"
+    ["FieldName"]=>
+    string(10) "btnChild25"
+    ["FieldFlags"]=>
+    string(5) "65536"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [233]=>
+  array(5) {
+    ["FieldType"]=>
+    string(6) "Button"
+    ["FieldName"]=>
+    string(11) "depRefVisa2"
+    ["FieldFlags"]=>
+    string(5) "49152"
+    ["FieldJustification"]=>
+    string(4) "Left"
+    ["FieldStateOption"]=>
+    array(3) {
+      [0]=>
+      string(1) "N"
+      [1]=>
+      string(3) "Off"
+      [2]=>
+      string(1) "Y"
+    }
+  }
+  [234]=>
+  array(4) {
+    ["FieldType"]=>
+    string(6) "Button"
+    ["FieldName"]=>
+    string(7) "btnMe26"
+    ["FieldFlags"]=>
+    string(5) "65536"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [235]=>
+  array(4) {
+    ["FieldType"]=>
+    string(6) "Button"
+    ["FieldName"]=>
+    string(10) "btnChild26"
+    ["FieldFlags"]=>
+    string(5) "65536"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [236]=>
+  array(4) {
+    ["FieldType"]=>
+    string(6) "Button"
+    ["FieldName"]=>
+    string(7) "btnMe27"
+    ["FieldFlags"]=>
+    string(5) "65536"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [237]=>
+  array(4) {
+    ["FieldType"]=>
+    string(6) "Button"
+    ["FieldName"]=>
+    string(10) "btnChild27"
+    ["FieldFlags"]=>
+    string(5) "65536"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [238]=>
+  array(4) {
+    ["FieldType"]=>
+    string(6) "Button"
+    ["FieldName"]=>
+    string(7) "btnMe28"
+    ["FieldFlags"]=>
+    string(5) "65536"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [239]=>
+  array(4) {
+    ["FieldType"]=>
+    string(6) "Button"
+    ["FieldName"]=>
+    string(10) "btnChild28"
+    ["FieldFlags"]=>
+    string(5) "65536"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [240]=>
+  array(4) {
+    ["FieldType"]=>
+    string(6) "Button"
+    ["FieldName"]=>
+    string(7) "btnMe29"
+    ["FieldFlags"]=>
+    string(5) "65536"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [241]=>
+  array(4) {
+    ["FieldType"]=>
+    string(6) "Button"
+    ["FieldName"]=>
+    string(10) "btnChild29"
+    ["FieldFlags"]=>
+    string(5) "65536"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [242]=>
+  array(4) {
+    ["FieldType"]=>
+    string(6) "Button"
+    ["FieldName"]=>
+    string(7) "btnMe30"
+    ["FieldFlags"]=>
+    string(5) "65536"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [243]=>
+  array(4) {
+    ["FieldType"]=>
+    string(6) "Button"
+    ["FieldName"]=>
+    string(10) "btnChild30"
+    ["FieldFlags"]=>
+    string(5) "65536"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [244]=>
+  array(4) {
+    ["FieldType"]=>
+    string(6) "Button"
+    ["FieldName"]=>
+    string(7) "btnMe31"
+    ["FieldFlags"]=>
+    string(5) "65536"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [245]=>
+  array(4) {
+    ["FieldType"]=>
+    string(6) "Button"
+    ["FieldName"]=>
+    string(10) "btnChild31"
+    ["FieldFlags"]=>
+    string(5) "65536"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [246]=>
+  array(4) {
+    ["FieldType"]=>
+    string(6) "Button"
+    ["FieldName"]=>
+    string(7) "btnMe32"
+    ["FieldFlags"]=>
+    string(5) "65536"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [247]=>
+  array(4) {
+    ["FieldType"]=>
+    string(6) "Button"
+    ["FieldName"]=>
+    string(10) "btnChild32"
+    ["FieldFlags"]=>
+    string(5) "65536"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [248]=>
+  array(5) {
+    ["FieldType"]=>
+    string(4) "Text"
+    ["FieldName"]=>
+    string(11) "depChnName2"
+    ["FieldNameAlt"]=>
+    string(14) "姓名(中文)"
+    ["FieldFlags"]=>
+    string(8) "12587008"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [249]=>
+  array(4) {
+    ["FieldType"]=>
+    string(4) "Text"
+    ["FieldName"]=>
+    string(15) "depMaidSurname2"
+    ["FieldFlags"]=>
+    string(8) "12587008"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [250]=>
+  array(6) {
+    ["FieldType"]=>
+    string(4) "Text"
+    ["FieldName"]=>
+    string(14) "depEngSurname2"
+    ["FieldNameAlt"]=>
+    string(11) "姓(英文)"
+    ["FieldFlags"]=>
+    string(8) "29360128"
+    ["FieldJustification"]=>
+    string(4) "Left"
+    ["FieldMaxLength"]=>
+    string(2) "33"
+  }
+  [251]=>
+  array(6) {
+    ["FieldType"]=>
+    string(4) "Text"
+    ["FieldName"]=>
+    string(11) "depEngName2"
+    ["FieldNameAlt"]=>
+    string(11) "名(英文)"
+    ["FieldFlags"]=>
+    string(8) "29360128"
+    ["FieldJustification"]=>
+    string(4) "Left"
+    ["FieldMaxLength"]=>
+    string(2) "33"
+  }
+  [252]=>
+  array(4) {
+    ["FieldType"]=>
+    string(4) "Text"
+    ["FieldName"]=>
+    string(12) "depUsedName2"
+    ["FieldFlags"]=>
+    string(8) "12582912"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [253]=>
+  array(4) {
+    ["FieldType"]=>
+    string(4) "Text"
+    ["FieldName"]=>
+    string(15) "depPreRefEntry2"
+    ["FieldFlags"]=>
+    string(8) "12582912"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [254]=>
+  array(4) {
+    ["FieldType"]=>
+    string(4) "Text"
+    ["FieldName"]=>
+    string(14) "depPreRefVisa2"
+    ["FieldFlags"]=>
+    string(8) "12582912"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [255]=>
+  array(4) {
+    ["FieldType"]=>
+    string(4) "Text"
+    ["FieldName"]=>
+    string(15) "sponsorNameChn2"
+    ["FieldFlags"]=>
+    string(8) "12587008"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [256]=>
+  array(4) {
+    ["FieldType"]=>
+    string(4) "Text"
+    ["FieldName"]=>
+    string(15) "sponsorNameEng2"
+    ["FieldFlags"]=>
+    string(8) "12587008"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [257]=>
+  array(5) {
+    ["FieldType"]=>
+    string(4) "Text"
+    ["FieldName"]=>
+    string(7) "appDate"
+    ["FieldNameAlt"]=>
+    string(6) "日期"
+    ["FieldFlags"]=>
+    string(8) "12582912"
+    ["FieldJustification"]=>
+    string(6) "Center"
+  }
+  [258]=>
+  array(5) {
+    ["FieldType"]=>
+    string(6) "Button"
+    ["FieldName"]=>
+    string(7) "btnPG44"
+    ["FieldNameAlt"]=>
+    string(15) "受養人簽署"
+    ["FieldFlags"]=>
+    string(5) "65536"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [259]=>
+  array(5) {
+    ["FieldType"]=>
+    string(6) "Button"
+    ["FieldName"]=>
+    string(7) "btnPG46"
+    ["FieldNameAlt"]=>
+    string(3) "母"
+    ["FieldFlags"]=>
+    string(5) "65536"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [260]=>
+  array(5) {
+    ["FieldType"]=>
+    string(6) "Button"
+    ["FieldName"]=>
+    string(7) "btnPG47"
+    ["FieldNameAlt"]=>
+    string(15) "合法監護人"
+    ["FieldFlags"]=>
+    string(5) "65536"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [261]=>
+  array(5) {
+    ["FieldType"]=>
+    string(6) "Button"
+    ["FieldName"]=>
+    string(7) "btnPG49"
+    ["FieldNameAlt"]=>
+    string(27) "*Delete where inappropriate"
+    ["FieldFlags"]=>
+    string(5) "65536"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [262]=>
+  array(5) {
+    ["FieldType"]=>
+    string(6) "Button"
+    ["FieldName"]=>
+    string(7) "btnPG51"
+    ["FieldNameAlt"]=>
+    string(27) "*Delete where inappropriate"
+    ["FieldFlags"]=>
+    string(5) "65536"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [263]=>
+  array(5) {
+    ["FieldType"]=>
+    string(6) "Button"
+    ["FieldName"]=>
+    string(7) "btnPG52"
+    ["FieldNameAlt"]=>
+    string(27) "*Delete where inappropriate"
+    ["FieldFlags"]=>
+    string(5) "65536"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [264]=>
+  array(5) {
+    ["FieldType"]=>
+    string(6) "Button"
+    ["FieldName"]=>
+    string(7) "btnPG48"
+    ["FieldNameAlt"]=>
+    string(15) "姓名及簽署"
+    ["FieldFlags"]=>
+    string(5) "65536"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [265]=>
+  array(5) {
+    ["FieldType"]=>
+    string(6) "Button"
+    ["FieldName"]=>
+    string(7) "btnPG50"
+    ["FieldNameAlt"]=>
+    string(27) "*Delete where inappropriate"
+    ["FieldFlags"]=>
+    string(5) "65536"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [266]=>
+  array(5) {
+    ["FieldType"]=>
+    string(6) "Button"
+    ["FieldName"]=>
+    string(7) "chgName"
+    ["FieldFlags"]=>
+    string(5) "49152"
+    ["FieldJustification"]=>
+    string(4) "Left"
+    ["FieldStateOption"]=>
+    array(3) {
+      [0]=>
+      string(3) "是"
+      [1]=>
+      string(3) "否"
+      [2]=>
+      string(3) "Off"
+    }
+  }
+  [267]=>
+  array(4) {
+    ["FieldType"]=>
+    string(6) "Button"
+    ["FieldName"]=>
+    string(6) "btnMe1"
+    ["FieldFlags"]=>
+    string(5) "65536"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [268]=>
+  array(4) {
+    ["FieldType"]=>
+    string(6) "Button"
+    ["FieldName"]=>
+    string(9) "btnChild1"
+    ["FieldFlags"]=>
+    string(5) "65536"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [269]=>
+  array(4) {
+    ["FieldType"]=>
+    string(6) "Button"
+    ["FieldName"]=>
+    string(6) "btnMe2"
+    ["FieldFlags"]=>
+    string(5) "65536"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [270]=>
+  array(4) {
+    ["FieldType"]=>
+    string(6) "Button"
+    ["FieldName"]=>
+    string(9) "btnChild2"
+    ["FieldFlags"]=>
+    string(5) "65536"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [271]=>
+  array(5) {
+    ["FieldType"]=>
+    string(4) "Text"
+    ["FieldName"]=>
+    string(8) "usedName"
+    ["FieldNameAlt"]=>
+    string(15) "曾用的姓名"
+    ["FieldFlags"]=>
+    string(8) "12582912"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [272]=>
+  array(5) {
+    ["FieldType"]=>
+    string(6) "Button"
+    ["FieldName"]=>
+    string(8) "refEntry"
+    ["FieldFlags"]=>
+    string(5) "49152"
+    ["FieldJustification"]=>
+    string(4) "Left"
+    ["FieldStateOption"]=>
+    array(3) {
+      [0]=>
+      string(3) "是"
+      [1]=>
+      string(3) "否"
+      [2]=>
+      string(3) "Off"
+    }
+  }
+  [273]=>
+  array(4) {
+    ["FieldType"]=>
+    string(6) "Button"
+    ["FieldName"]=>
+    string(6) "btnMe3"
+    ["FieldFlags"]=>
+    string(5) "65536"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [274]=>
+  array(4) {
+    ["FieldType"]=>
+    string(6) "Button"
+    ["FieldName"]=>
+    string(9) "btnChild3"
+    ["FieldFlags"]=>
+    string(5) "65536"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [275]=>
+  array(4) {
+    ["FieldType"]=>
+    string(6) "Button"
+    ["FieldName"]=>
+    string(6) "btnMe4"
+    ["FieldFlags"]=>
+    string(5) "65536"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [276]=>
+  array(4) {
+    ["FieldType"]=>
+    string(6) "Button"
+    ["FieldName"]=>
+    string(9) "btnChild4"
+    ["FieldFlags"]=>
+    string(5) "65536"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [277]=>
+  array(5) {
+    ["FieldType"]=>
+    string(4) "Text"
+    ["FieldName"]=>
+    string(11) "preRefEntry"
+    ["FieldNameAlt"]=>
+    string(36) "有關的日期及詳細資料如下"
+    ["FieldFlags"]=>
+    string(8) "12582912"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [278]=>
+  array(5) {
+    ["FieldType"]=>
+    string(6) "Button"
+    ["FieldName"]=>
+    string(7) "refVisa"
+    ["FieldFlags"]=>
+    string(5) "49152"
+    ["FieldJustification"]=>
+    string(4) "Left"
+    ["FieldStateOption"]=>
+    array(3) {
+      [0]=>
+      string(3) "是"
+      [1]=>
+      string(3) "否"
+      [2]=>
+      string(3) "Off"
+    }
+  }
+  [279]=>
+  array(4) {
+    ["FieldType"]=>
+    string(6) "Button"
+    ["FieldName"]=>
+    string(6) "btnMe5"
+    ["FieldFlags"]=>
+    string(5) "65536"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [280]=>
+  array(4) {
+    ["FieldType"]=>
+    string(6) "Button"
+    ["FieldName"]=>
+    string(9) "btnChild5"
+    ["FieldFlags"]=>
+    string(5) "65536"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [281]=>
+  array(4) {
+    ["FieldType"]=>
+    string(6) "Button"
+    ["FieldName"]=>
+    string(6) "btnMe6"
+    ["FieldFlags"]=>
+    string(5) "65536"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [282]=>
+  array(4) {
+    ["FieldType"]=>
+    string(6) "Button"
+    ["FieldName"]=>
+    string(9) "btnChild6"
+    ["FieldFlags"]=>
+    string(5) "65536"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [283]=>
+  array(5) {
+    ["FieldType"]=>
+    string(4) "Text"
+    ["FieldName"]=>
+    string(10) "preRefVisa"
+    ["FieldNameAlt"]=>
+    string(36) "有關的日期及詳細資料如下"
+    ["FieldFlags"]=>
+    string(8) "12582912"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [284]=>
+  array(4) {
+    ["FieldType"]=>
+    string(6) "Button"
+    ["FieldName"]=>
+    string(6) "btnMe7"
+    ["FieldFlags"]=>
+    string(5) "65536"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [285]=>
+  array(4) {
+    ["FieldType"]=>
+    string(6) "Button"
+    ["FieldName"]=>
+    string(9) "btnChild7"
+    ["FieldFlags"]=>
+    string(5) "65536"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [286]=>
+  array(4) {
+    ["FieldType"]=>
+    string(6) "Button"
+    ["FieldName"]=>
+    string(6) "btnMe8"
+    ["FieldFlags"]=>
+    string(5) "65536"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [287]=>
+  array(4) {
+    ["FieldType"]=>
+    string(6) "Button"
+    ["FieldName"]=>
+    string(9) "btnChild8"
+    ["FieldFlags"]=>
+    string(5) "65536"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [288]=>
+  array(4) {
+    ["FieldType"]=>
+    string(6) "Button"
+    ["FieldName"]=>
+    string(6) "btnMe9"
+    ["FieldFlags"]=>
+    string(5) "65536"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [289]=>
+  array(4) {
+    ["FieldType"]=>
+    string(6) "Button"
+    ["FieldName"]=>
+    string(9) "btnChild9"
+    ["FieldFlags"]=>
+    string(5) "65536"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [290]=>
+  array(4) {
+    ["FieldType"]=>
+    string(6) "Button"
+    ["FieldName"]=>
+    string(12) "declaration1"
+    ["FieldFlags"]=>
+    string(5) "65536"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [291]=>
+  array(4) {
+    ["FieldType"]=>
+    string(4) "Text"
+    ["FieldName"]=>
+    string(11) "domPlaceChn"
+    ["FieldFlags"]=>
+    string(8) "12582912"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [292]=>
+  array(4) {
+    ["FieldType"]=>
+    string(4) "Text"
+    ["FieldName"]=>
+    string(11) "domPlaceEng"
+    ["FieldFlags"]=>
+    string(8) "12582912"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [293]=>
+  array(4) {
+    ["FieldType"]=>
+    string(6) "Button"
+    ["FieldName"]=>
+    string(12) "declaration2"
+    ["FieldFlags"]=>
+    string(5) "65536"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [294]=>
+  array(4) {
+    ["FieldType"]=>
+    string(6) "Button"
+    ["FieldName"]=>
+    string(7) "btnMe10"
+    ["FieldFlags"]=>
+    string(5) "65536"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [295]=>
+  array(4) {
+    ["FieldType"]=>
+    string(6) "Button"
+    ["FieldName"]=>
+    string(10) "btnChild10"
+    ["FieldFlags"]=>
+    string(5) "65536"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [296]=>
+  array(5) {
+    ["FieldType"]=>
+    string(4) "Text"
+    ["FieldName"]=>
+    string(8) "appDate4"
+    ["FieldNameAlt"]=>
+    string(6) "日期"
+    ["FieldFlags"]=>
+    string(8) "12582912"
+    ["FieldJustification"]=>
+    string(6) "Center"
+  }
+  [297]=>
+  array(5) {
+    ["FieldType"]=>
+    string(6) "Button"
+    ["FieldName"]=>
+    string(7) "btnPG22"
+    ["FieldNameAlt"]=>
+    string(27) "*Delete where inappropriate"
+    ["FieldFlags"]=>
+    string(5) "65536"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [298]=>
+  array(5) {
+    ["FieldType"]=>
+    string(6) "Button"
+    ["FieldName"]=>
+    string(7) "btnPG23"
+    ["FieldNameAlt"]=>
+    string(27) "*Delete where inappropriate"
+    ["FieldFlags"]=>
+    string(5) "65536"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [299]=>
+  array(5) {
+    ["FieldType"]=>
+    string(6) "Button"
+    ["FieldName"]=>
+    string(7) "btnPG24"
+    ["FieldNameAlt"]=>
+    string(27) "*Delete where inappropriate"
+    ["FieldFlags"]=>
+    string(5) "65536"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [300]=>
+  array(5) {
+    ["FieldType"]=>
+    string(6) "Button"
+    ["FieldName"]=>
+    string(7) "btnPG25"
+    ["FieldNameAlt"]=>
+    string(27) "*Delete where inappropriate"
+    ["FieldFlags"]=>
+    string(5) "65536"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [301]=>
+  array(5) {
+    ["FieldType"]=>
+    string(6) "Button"
+    ["FieldName"]=>
+    string(7) "btnPG27"
+    ["FieldNameAlt"]=>
+    string(27) "*Delete where inappropriate"
+    ["FieldFlags"]=>
+    string(5) "65536"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [302]=>
+  array(5) {
+    ["FieldType"]=>
+    string(6) "Button"
+    ["FieldName"]=>
+    string(7) "btnPG29"
+    ["FieldNameAlt"]=>
+    string(27) "*Delete where inappropriate"
+    ["FieldFlags"]=>
+    string(5) "65536"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [303]=>
+  array(5) {
+    ["FieldType"]=>
+    string(6) "Button"
+    ["FieldName"]=>
+    string(7) "btnPG30"
+    ["FieldNameAlt"]=>
+    string(27) "*Delete where inappropriate"
+    ["FieldFlags"]=>
+    string(5) "65536"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [304]=>
+  array(5) {
+    ["FieldType"]=>
+    string(6) "Button"
+    ["FieldName"]=>
+    string(7) "btnPG26"
+    ["FieldNameAlt"]=>
+    string(27) "*Delete where inappropriate"
+    ["FieldFlags"]=>
+    string(5) "65536"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [305]=>
+  array(5) {
+    ["FieldType"]=>
+    string(6) "Button"
+    ["FieldName"]=>
+    string(7) "btnPG28"
+    ["FieldNameAlt"]=>
+    string(27) "*Delete where inappropriate"
+    ["FieldFlags"]=>
+    string(5) "65536"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [306]=>
+  array(5) {
+    ["FieldType"]=>
+    string(6) "Button"
+    ["FieldName"]=>
+    string(7) "btnPG31"
+    ["FieldNameAlt"]=>
+    string(27) "*Delete where inappropriate"
+    ["FieldFlags"]=>
+    string(5) "65536"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [307]=>
+  array(5) {
+    ["FieldType"]=>
+    string(6) "Button"
+    ["FieldName"]=>
+    string(7) "btnPG32"
+    ["FieldNameAlt"]=>
+    string(27) "*Delete where inappropriate"
+    ["FieldFlags"]=>
+    string(5) "65536"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [308]=>
+  array(4) {
+    ["FieldType"]=>
+    string(6) "Button"
+    ["FieldName"]=>
+    string(12) "declaration4"
+    ["FieldFlags"]=>
+    string(5) "65536"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [309]=>
+  array(4) {
+    ["FieldType"]=>
+    string(4) "Text"
+    ["FieldName"]=>
+    string(12) "otherMarital"
+    ["FieldFlags"]=>
+    string(8) "12587008"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [310]=>
+  array(5) {
+    ["FieldType"]=>
+    string(6) "Button"
+    ["FieldName"]=>
+    string(7) "btnPG34"
+    ["FieldNameAlt"]=>
+    string(3) "父"
+    ["FieldFlags"]=>
+    string(5) "65536"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [311]=>
+  array(4) {
+    ["FieldType"]=>
+    string(6) "Button"
+    ["FieldName"]=>
+    string(7) "btnPG43"
+    ["FieldFlags"]=>
+    string(5) "65536"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [312]=>
+  array(4) {
+    ["FieldType"]=>
+    string(6) "Button"
+    ["FieldName"]=>
+    string(7) "btnPG42"
+    ["FieldFlags"]=>
+    string(5) "65536"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [313]=>
+  array(5) {
+    ["FieldType"]=>
+    string(6) "Button"
+    ["FieldName"]=>
+    string(7) "btnPG45"
+    ["FieldNameAlt"]=>
+    string(3) "父"
+    ["FieldFlags"]=>
+    string(5) "65536"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [314]=>
+  array(4) {
+    ["FieldType"]=>
+    string(6) "Button"
+    ["FieldName"]=>
+    string(7) "btnPG53"
+    ["FieldFlags"]=>
+    string(5) "65536"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [315]=>
+  array(4) {
+    ["FieldType"]=>
+    string(6) "Button"
+    ["FieldName"]=>
+    string(7) "btnPG54"
+    ["FieldFlags"]=>
+    string(5) "65536"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [316]=>
+  array(4) {
+    ["FieldType"]=>
+    string(6) "Button"
+    ["FieldName"]=>
+    string(10) "btnChild21"
+    ["FieldFlags"]=>
+    string(5) "65536"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+  [317]=>
+  array(4) {
+    ["FieldType"]=>
+    string(6) "Button"
+    ["FieldName"]=>
+    string(7) "btnMe21"
+    ["FieldFlags"]=>
+    string(5) "65536"
+    ["FieldJustification"]=>
+    string(4) "Left"
+  }
+}

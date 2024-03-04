@@ -1,0 +1,9 @@
+name: immd  
+recipe: symfony
+services:
+  myservice:
+    type: php:8.0
+    via: nginx
+    webroot: www
+    composer: []
+    composer_version: '2.2.12'  
